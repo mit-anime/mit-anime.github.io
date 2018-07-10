@@ -7,6 +7,8 @@ include "../header.php"; ?>
 <p><b>Fall 1990 - Spring 2018</b></p>
 <p>This file is in reverse-chronological order (by semester or season), which allows us to easily use a browser's &quot;find'' command to figure out how long it's been since we last showed something.</p>
 
+<hr>
+
 <a name="Spring 2018"></a>
 <h2>Spring 2018</h2>
 <h3 class="history">
@@ -28,6 +30,79 @@ include "../header.php"; ?>
 	<ul class="p">
                 <li>Rose of Versailles 1-3</li>
 		<li>Bakuman 22-25 (concludes)</li>
+	</ul>
+
+	<strong>Friday, 20 April 2018</strong>
+	<ul class="p">
+                <li>Kokoro Connect 1-3</li>
+		<li>Bakuman 19-21</li>
+	</ul>
+
+	<strong>Friday, 13 April 2018 &nbsp; <font color="red">CPW Movie Night</font></strong>
+	<ul class="p">
+		<li>Sword of the Stranger</li>
+	</ul>
+
+
+	<strong>Friday, 6 April 2018</strong>
+	<ul class="p">
+                <li>Shirobako 1-3</li>
+		<li>Bakuman 16-18</li>
+	</ul>
+
+	<strong>Friday, 23 March 2018</strong>
+	<ul class="p">
+                <li>Kuma Miko 1-3</li>
+		<li>Bakuman 13-15</li>
+	</ul>
+
+	<strong>Friday, 16 March 2018</strong>
+	<ul class="p">
+                <li>Killing Bites 1-3</li>
+		<li>Bakuman 10-12</li>
+	</ul>
+
+	<strong>Friday, 9 March 2018</strong>
+	<ul class="p">
+                <li>Nodame Cantabile 1-3</li>
+		<li>Bakuman 7-9</li>
+	</ul>
+
+	<strong>Friday, 2 March 2018</strong>
+	<ul class="p">
+                <li>Gekkan Shoujo Nozaki-kun 1-3</li>
+		<li>Bakuman 4-6</li>
+	</ul>
+
+	<strong>Friday, 23 February 2018</strong>
+	<ul class="p">
+                <li>Kimi ni Todoke 1-3</li>
+		<li>Bakuman 1-3</li>
+	</ul>
+
+	<strong>Friday, 16 February 2018 &nbsp; <font color="red">Valentine's Party</font></strong>
+	<ul class="p">
+                <li>Tsurezure Children 1-8</li>
+		<li>WataMote 1-3</li>
+	</ul>
+
+	<strong>Friday, 9 February 2018 &nbsp; <font color="red">Spring Party</font></strong>
+	<ul class="p">
+                <li>Kemonozume 1</li>
+		<li>Shinsekai Yori 1</li>
+                <li>Bakuman 1</li>
+                <li>Death Parade 1</li>
+	</ul>
+<hr>
+
+<a name="IAP 2018"></a>
+<h2>IAP 2018</h2>
+<h3 class="history">
+	IAP Series: <strong>Inuyashiki</strong>
+</h3>
+	<strong>Friday, 12 January 2018</strong>
+	<ul class="p">
+		<li>Inuyashiki 1-12</li>
 	</ul>
 <hr>
 
