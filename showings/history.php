@@ -12,87 +12,101 @@ include "../header.php"; ?>
 <a name="Spring 2018"></a>
 <h2>Spring 2018</h2>
 <h3 class="history">
-	Spring Series: <strong>Bakuman</strong>
+    Spring Series: <strong>Bakuman</strong>
 </h3>
-	<strong>Friday, 11 May 2018</strong>
-	<ul class="p">
-                <li>Sankarea 1-3</li>
-		<li>Eyeshield 21 1-3</li>
-	</ul>
+    <strong>Friday, 9 February 2018 &nbsp; <font color="red">Spring Party</font></strong>
+    <ul class="p">
+        <li>Kemonozume 1</li>
+        <li>Shinsekai Yori 1</li>
+        <li>Bakuman 1</li>
+        <li>Death Parade 1</li>
+    </ul>
 
-	<strong>Friday, 5 May 2018</strong>
-	<ul class="p">
-                <li>Is the Order a Rabbit? 1-3</li>
-		<li>New Game 1-3</li>
-	</ul>
+    <strong>Friday, 16 February 2018 &nbsp; <font color="red">Valentine's Party</font></strong>
+    <ul class="p">
+        <li>Tsurezure Children 1-8</li>
+        <li>WataMote 1-3</li>
+    </ul>
 
-	<strong>Friday, 27 April 2018</strong>
-	<ul class="p">
-                <li>Rose of Versailles 1-3</li>
-		<li>Bakuman 22-25 (concludes)</li>
-	</ul>
+    <strong>Friday, 23 February 2018</strong>
+    <ul class="p">
+        <li>Kimi ni Todoke 1-3</li>
+        <li>Bakuman 1-3</li>
+    </ul>
 
-	<strong>Friday, 20 April 2018</strong>
-	<ul class="p">
-                <li>Kokoro Connect 1-3</li>
-		<li>Bakuman 19-21</li>
-	</ul>
+    <strong>Friday, 2 March 2018</strong>
+    <ul class="p">
+        <li>Gekkan Shoujo Nozaki-kun 1-3</li>
+        <li>Bakuman 4-6</li>
+    </ul>
 
-	<strong>Friday, 13 April 2018 &nbsp; <font color="red">CPW Movie Night</font></strong>
-	<ul class="p">
-		<li>Sword of the Stranger</li>
-	</ul>
+    <strong>Friday, 9 March 2018</strong>
+    <ul class="p">
+        <li>Nodame Cantabile 1-3</li>
+        <li>Bakuman 7-9</li>
+    </ul>
 
+    <strong>Friday, 16 March 2018</strong>
+    <ul class="p">
+        <li>Killing Bites 1-3</li>
+        <li>Bakuman 10-12</li>
+    </ul>
 
-	<strong>Friday, 6 April 2018</strong>
-	<ul class="p">
-                <li>Shirobako 1-3</li>
-		<li>Bakuman 16-18</li>
-	</ul>
+    <strong>Friday, 23 March 2018</strong>
+    <ul class="p">
+        <li>Kuma Miko 1-3</li>
+        <li>Bakuman 13-15</li>
+    </ul>
 
-	<strong>Friday, 23 March 2018</strong>
-	<ul class="p">
-                <li>Kuma Miko 1-3</li>
-		<li>Bakuman 13-15</li>
-	</ul>
+    <strong>Friday, 6 April 2018</strong>
+    <ul class="p">
+        <li>Shirobako 1-3</li>
+        <li>Bakuman 16-18</li>
+    </ul>
 
-	<strong>Friday, 16 March 2018</strong>
-	<ul class="p">
-                <li>Killing Bites 1-3</li>
-		<li>Bakuman 10-12</li>
-	</ul>
+    <strong>Friday, 13 April 2018 &nbsp; <font color="red">CPW Movie Night</font></strong>
+    <ul class="p">
+        <li>Sword of the Stranger</li>
+    </ul>
 
-	<strong>Friday, 9 March 2018</strong>
-	<ul class="p">
-                <li>Nodame Cantabile 1-3</li>
-		<li>Bakuman 7-9</li>
-	</ul>
+    <strong>Friday, 20 April 2018</strong>
+    <ul class="p">
+        <li>Kokoro Connect 1-3</li>
+        <li>Bakuman 19-21</li>
+    </ul>
 
-	<strong>Friday, 2 March 2018</strong>
-	<ul class="p">
-                <li>Gekkan Shoujo Nozaki-kun 1-3</li>
-		<li>Bakuman 4-6</li>
-	</ul>
+    <strong>Friday, 27 April 2018</strong>
+    <ul class="p">
+        <li>Rose of Versailles 1-3</li>
+        <li>Bakuman 22-25 (concludes)</li>
+    </ul>
 
-	<strong>Friday, 23 February 2018</strong>
-	<ul class="p">
-                <li>Kimi ni Todoke 1-3</li>
-		<li>Bakuman 1-3</li>
-	</ul>
+    <strong>Friday, 5 May 2018</strong>
+    <ul class="p">
+        <li>Is the Order a Rabbit? 1-3</li>
+        <li>New Game 1-3</li>
+    </ul>
 
-	<strong>Friday, 16 February 2018 &nbsp; <font color="red">Valentine's Party</font></strong>
-	<ul class="p">
-                <li>Tsurezure Children 1-8</li>
-		<li>WataMote 1-3</li>
-	</ul>
+    <strong>Friday, 11 May 2018</strong>
+    <ul class="p">
+        <li>Sankarea 1-3</li>
+        <li>Eyeshield 21 1-3</li>
+    </ul>
 
-	<strong>Friday, 9 February 2018 &nbsp; <font color="red">Spring Party</font></strong>
-	<ul class="p">
-                <li>Kemonozume 1</li>
-		<li>Shinsekai Yori 1</li>
-                <li>Bakuman 1</li>
-                <li>Death Parade 1</li>
-	</ul>
+    <strong>Friday, 18 May 2018 &nbsp; <font color="red">Brain Reset!</font></strong>
+    <ul class="p">
+        <li>Aggretsuko 1-16</li>
+        <li>Bobobo-bo Bo-bobo 1, 33</li>
+        <li>Hinamatsuri 1</li>
+        <li>Inferno Cop 1</li>
+        <li>Ketsuekigata-kun! 1-2</li>
+        <li>Ore Twintail ni Narimasu 1-2</li>
+        <li>Paranoia Agent 1</li>
+        <li>Pop Team Epic 1-3</li>
+        <li>Saiki K ?</li>
+        <li>Sakeru Gum 1-11</li>
+        <li>Xavier: Renegade Angel S1 10</li>
+    </ul>
 <hr>
 
 <a name="IAP 2018"></a>
@@ -104,6 +118,104 @@ include "../header.php"; ?>
 	<ul class="p">
 		<li>Inuyashiki 1-12</li>
 	</ul>
+<hr>
+
+<a name="Fall 2017"></a>
+<h2>Fall 2017</h2>
+<h3 class="history">
+    Fall Series: <strong>Seirei no Moribito</strong>
+</h3>
+    <strong>Friday, 8 September 2017 &nbsp; <font color="red">Fall Party</font></strong>
+    <ul class="p">
+        <li>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 1</li>
+        <li>Made in Abyss 1</li>
+        <li>Kino's Journey 1</li>
+        <li>Seirei no Moribito 1</li>
+    </ul>
+
+    <strong>Friday, 15 September 2017</strong>
+    <ul class="p">
+        <li>Classroom of the Elite 1-3</li>
+        <li>Seirei no Moribito 1-3</li>
+    </ul>
+
+    <strong>Friday, 22 September 2017</strong>
+    <ul class="p">
+        <li>Kakegurui 1-3</li>
+        <li>Seirei no Moribito 4-6</li>
+    </ul>
+
+    <strong>Saturday, 23 September 2017 &nbsp; <font color="red">Movie Night</font></strong>
+    <ul class="p">
+        <li>Koe no Katachi</li>
+    </ul>
+
+    <strong>Friday, 29 September 2017</strong>
+    <ul class="p">
+        <li>Princess Nine 1-3</li>
+        <li>Seirei no Moribito 7-9</li>
+    </ul>
+
+    <strong>Friday, 6 October 2017</strong>
+    <ul class="p">
+        <li>Vatican Kiseki Chousakan 1-3</li>
+        <li>Seirei no Moribito 10-12</li>
+    </ul>
+
+    <strong>Friday, 13 October 2017</strong>
+    <ul class="p">
+        <li>Beautiful Bones: Sakurako's Investigation 1-3</li>
+        <li>Seirei no Moribito 13-15</li>
+    </ul>
+
+    <strong>Friday, 20 October 2017</strong>
+    <ul class="p">
+        <li>Phantom: Requiem for the Phantom 1-3</li>
+        <li>Seirei no Moribito 16-18</li>
+    </ul>
+
+    <strong>Friday, 27 October 2017 &nbsp; <font color="red">Halloween Showing</font></strong>
+    <ul class="p">
+        <li>Danganronpa 1-2</li>
+        <li>BTOOOM! 1-2</li>
+        <li>Drifters 1-2</li>
+        <li>Gosick 1-2</li>
+    </ul>
+
+    <strong>Friday, 3 November 2017</strong>
+    <ul class="p">
+        <li>Princess Jellyfish 1-3</li>
+        <li>Seirei no Moribito 19-21</li>
+    </ul>
+
+    <strong>Friday, 10 November 2017</strong>
+    <ul class="p">
+        <li>Castle Town Dandelion 1-3</li>
+        <li>Seirei no Moribito 22-24</li>
+    </ul>
+
+    <strong>Friday, 17 November 2017</strong>
+    <ul class="p">
+        <li>The Ancient Magus' Bride 1-3</li>
+        <li>Seirei no Moribito 25-26 (concludes)</li>
+    </ul>
+
+    <strong>Friday, 1 December 2017</strong>
+    <ul class="p">
+        <li>Yumeiro Patissiere 1-3</li>
+        <li>Usagi Drop 1-3</li>
+    </ul>
+
+    <strong>Friday, 8 December 2017</strong>
+    <ul class="p">
+        <li>Tegami Bachi 1-3</li>
+        <li>Castle in the Sky</li>
+    </ul>
+
+    <strong>Friday, 15 December 2017 &nbsp; <font color="red">Brain Reset!</font></strong>
+    <ul class="p">
+        <li>???</li>
+    </ul>
 <hr>
 
 <a name="dark-ages"></a>
