@@ -100,10 +100,11 @@ include "../header.php"; ?>
         <li>Hinamatsuri 1</li>
         <li>Inferno Cop 1</li>
         <li>Ketsuekigata-kun! 1-2</li>
+        <li>Mahou Shoujo Ore 1-2</li>
         <li>Ore Twintail ni Narimasu 1-2</li>
         <li>Paranoia Agent 1</li>
         <li>Pop Team Epic 1-3</li>
-        <li>Saiki K ?</li>
+        <li>Saiki K 1</li>
         <li>Sakeru Gum 1-11</li>
         <li>Xavier: Renegade Angel S1 10</li>
     </ul>
@@ -215,15 +216,15 @@ include "../header.php"; ?>
     <strong>Friday, 15 December 2017 &nbsp; <font color="red">Brain Reset!</font></strong>
     <ul class="p">
         <li>Aoi Sekai no Chuushin de 1-3</li>
+        <li>Clean Freak! Aoyama-kun 1</li>
         <li>Gabriel DropOut 1</li>
+        <li>Hacka Doll 1-2</li>
+        <li>Hetalia 1-3</li>
         <li>Humanity Has Declined 1</li>
+        <li>Kaiba 1-2</li>
+        <li>Osomatsu-san 2nd Season 1</li>
         <li>Panty and Stocking 1</li>
         <li>Saiki K 100-102</li>
-        <li>Hetalia 1-3</li>
-        <li>Hacka Doll 1-2</li>
-        <li>Osomatsu-san 2nd Season 1</li>
-        <li>Kaiba 1-2</li>
-        <li>Clean Freak! Aoyama-kun 1</li>
     </ul>
 <hr>
 
