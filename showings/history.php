@@ -214,7 +214,16 @@ include "../header.php"; ?>
 
     <strong>Friday, 15 December 2017 &nbsp; <font color="red">Brain Reset!</font></strong>
     <ul class="p">
-        <li>???</li>
+        <li>Aoi Sekai no Chuushin de 1-3</li>
+        <li>Gabriel DropOut 1</li>
+        <li>Humanity Has Declined 1</li>
+        <li>Panty and Stocking 1</li>
+        <li>Saiki K 100-102</li>
+        <li>Hetalia 1-3</li>
+        <li>Hacka Doll 1-2</li>
+        <li>Osomatsu-san 2nd Season 1</li>
+        <li>Kaiba 1-2</li>
+        <li>Clean Freak! Aoyama-kun 1</li>
     </ul>
 <hr>
 
