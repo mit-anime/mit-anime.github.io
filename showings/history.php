@@ -228,6 +228,98 @@ include "../header.php"; ?>
     </ul>
 <hr>
 
+<a name="Spring 2017"></a>
+<h2>Spring 2017</h2>
+<h3 class="history">
+    Spring Series: <strong>Sayonara Zetsubou Sensei</strong> and <strong>Arakawa Under The Bridge</strong>
+</h3>
+    <strong>Friday, 10 February 2018 &nbsp; <font color="red">Spring Party</font></strong>
+    <ul class="p">
+        <li>Big O 1</li>
+        <li>Serial Experiments Lain 1</li>
+        <li>Welcome to the NHK 1</li>
+        <li>Sayonara Zetsubou Sensei 1</li>
+    </ul>
+
+    <strong>Friday, 17 February 2018</strong>
+    <ul class="p">
+        <li>Spice and Wolf 1-3</li>
+        <li>Sayonara Zetsubou Sensei 1-3</li>
+    </ul>
+
+    <strong>Friday, 24 February 2018</strong>
+    <ul class="p">
+        <li>Little Witch Academia 1-3</li>
+        <li>Sayonara Zetsubou Sensei 4-6</li>
+    </ul>
+
+    <strong>Friday, 3 March 2018</strong>
+    <ul class="p">
+        <li>Tokyo Magnitude 8.0 1-3</li>
+        <li>Sayonara Zetsubou Sensei 7-9</li>
+    </ul>
+
+    <strong>Friday, 10 March 2018</strong>
+    <ul class="p">
+        <li>The Tatami Galaxy 1-3</li>
+        <li>Sayonara Zetsubou Sensei 10-12 (concludes)</li>
+    </ul>
+
+    <strong>Saturday, 11 March 2018 &nbsp; <font color="red">Movie Night</font></strong>
+    <ul class="p">
+        <li>Ghost in the Shell</li>
+        <li>Ghost in the Shell 2: Innocence</li>
+    </ul>
+
+    <strong>Friday, 17 March 2018</strong>
+    <ul class="p">
+        <li>Arakawa Under the Bridge 1</li>
+        <li>The Eccentric Family 1</li>
+        <li>3-gatsu no Lion 1</li>
+        <li>Trigun 1</li>
+    </ul>
+
+    <strong>Friday, 7 April 2018 &nbsp; <font color="red">CPW Party</font></strong>
+    <ul class="p">
+        <li>Arakawa Under The Bridge 1-4</li>
+    </ul>
+
+    <strong>Friday, 14 April 2018</strong>
+    <ul class="p">
+        <li>91 Days 1-3</li>
+        <li>Arakawa Under The Bridge 1-3</li>
+    </ul>
+
+    <strong>Friday, 21 April 2018</strong>
+    <ul class="p">
+        <li>Mawaru Penguindrum 1-3</li>
+        <li>Arakawa Under The Bridge 4-6</li>
+    </ul>
+
+    <strong>Friday, 28 April 2018</strong>
+    <ul class="p">
+        <li>Akagami no Shirayuki-hime 1-3</li>
+        <li>Arakawa Under The Bridge 7-9</li>
+    </ul>
+
+    <strong>Friday, 5 May 2018</strong>
+    <ul class="p">
+        <li>Outlaw Star 1-2</li>
+        <li>Arakawa Under The Bridge 10-13 (concludes)</li>
+    </ul>
+
+    <strong>Friday, 12 May 2018 &nbsp; <font color="red">Officer Elections</font></strong>
+    <ul class="p">
+        <li>Yu-Gi-Oh! The Abridged Series</li>
+        <li>Naruto The Abridged Series</li>
+    </ul>
+
+    <strong>Friday, 19 May 2018 &nbsp; <font color="red">Brain Reset!</font></strong>
+    <ul class="p">
+        <li>???</li>
+    </ul>
+<hr>
+
 <a name="dark-ages"></a>
 <h2>Anime Club Dark Ages</h2>
 <hr>
