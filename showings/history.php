@@ -320,8 +320,112 @@ include "../header.php"; ?>
     </ul>
 <hr>
 
+<a name="IAP 2017"></a>
+<h2>IAP 2017</h2>
+<h3 class="history">
+    IAP Series: <strong>Inuyashiki</strong>
+</h3>
+    <strong>Friday, 20 January 2017</strong>
+    <ul class="p">
+        <li>Gi(a)rlish Number 1-12</li>
+    </ul>
+<hr>
+
+<a name="Fall 2017"></a>
+<h2>Fall 2016</h2>
+<h3 class="history">
+    Fall Series: <strong>Parasyte</strong>
+</h3>
+    <strong>Friday, 16 September 2016 &nbsp; <font color="red">Fall Party</font></strong>
+    <ul class="p">
+        <li>Parasyte 1</li>
+        <li>Erased 1</li>
+        <li>Ghost in the Shell: Arise 1</li>
+        <li>Canaan 1</li>
+    </ul>
+
+    <strong>Friday, 23 September 2016</strong>
+    <ul class="p">
+        <li>Nichijou ???</li>
+        <li>Danshi Koukousei no Nichijou ???</li>
+        <li>Parasyte 1-3</li>
+    </ul>
+
+    <strong>Friday, 30 September 2016</strong>
+    <ul class="p">
+        <li>Nadia: The Secret of Blue Water 1-3</li>
+        <li>Parasyte 4-6</li>
+    </ul>
+
+    <strong>Friday, 7 October 2016</strong>
+    <ul class="p">
+        <li>Level E 1-3</li>
+        <li>Parasyte 7-9</li>
+    </ul>
+
+    <strong>Saturday, 8 October 2016 &nbsp; <font color="red">Movie Night</font></strong>
+    <ul class="p">
+        <li>Redline</li>
+    </ul>
+
+    <strong>Friday, 14 October 2016</strong>
+    <ul class="p">
+        <li>Ninja Slayer 1-6</li>
+        <li>Parasyte 10-12</li>
+    </ul>
+
+    <strong>Friday, 21 October 2016</strong>
+    <ul class="p">
+        <li>Kiznaiver 1-3</li>
+        <li>Parasyte 13-15</li>
+    </ul>
+
+    <strong>Friday, 28 October 2016</strong>
+    <ul class="p">
+        <li>Pet Shop of Horrors 1-3</li>
+        <li>Parasyte 16-18</li>
+    </ul>
+
+    <strong>Friday, 4 November 2016</strong>
+    <ul class="p">
+        <li>Wandering Son 1-3</li>
+        <li>Parasyte 19-21</li>
+    </ul>
+
+    <strong>Friday, 11 November 2016</strong>
+    <ul class="p">
+        <li>Fune wo Amu 1-3</li>
+        <li>Parasyte 22-24 (concludes)</li>
+    </ul>
+
+    <strong>Friday, 18 November 2016</strong>
+    <ul class="p">
+        <li>Barakamon 1</li>
+        <li>Berserk (2016) 1</li>
+        <li>Inou Battle wa Nichijou-kei no Naka de 1</li>
+        <li>Mob Psycho 100 1</li>
+    </ul>
+
+    <strong>Friday, 2 December 2016</strong>
+    <ul class="p">
+        <li>Prince of Stride 1-3</li>
+        <li>Yuri on Ice 1-3</li>
+    </ul>
+
+    <strong>Friday, 9 December 2016</strong>
+    <ul class="p">
+        <li>Kaiji 1-3</li>
+        <li>Key the Metal Idol 1-3</li>
+    </ul>
+
+    <strong>Friday, 16 December 2016 &nbsp; <font color="red">Anime;Brain?Reset!</font></strong>
+    <ul class="p">
+        <li>???</li>
+    </ul>
+<hr>
+
 <a name="dark-ages"></a>
-<h2>Anime Club Dark Ages</h2>
+<h2>???</h2>
 <hr>
 
 <a name="IAP_2012"></a>
