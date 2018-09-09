@@ -9,6 +9,21 @@ include "../header.php"; ?>
 
 <hr>
 
+
+<a name="Fall 2018"></a>
+<h2>Fall 2018</h2>
+<h3 class="history">
+    Fall Series: <strong>Shoujo&#9734;Kageki Revue Starlight</strong>
+</h3>
+    <strong>Friday, 7 September 2018 &nbsp; <font color="red">Fall Party</font></strong>
+    <ul class="p">
+        <li>Darling in the Franxx 1</li>
+        <li>Megalo Box 1</li>
+        <li>One Outs 1</li>
+        <li>Shoujo&#9734;Kageki Revue Starlight 1</li>
+    </ul>
+<hr>
+
 <a name="Spring 2018"></a>
 <h2>Spring 2018</h2>
 <h3 class="history">
