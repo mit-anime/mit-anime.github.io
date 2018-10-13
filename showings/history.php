@@ -13,7 +13,7 @@ include "../header.php"; ?>
 <a name="Fall 2018"></a>
 <h2>Fall 2018</h2>
 <h3 class="history">
-    Fall Series: <strong>Shoujo&#9734;Kageki Revue Starlight</strong>
+    Fall Series: <strong>Shoujo&#9734;Kageki Revue Starlight</strong> and <strong>A Place Further than the Universe</strong>
 </h3>
     <strong>Friday, 7 September 2018 &nbsp; <font color="red">Fall Party</font></strong>
     <ul class="p">
@@ -21,6 +21,43 @@ include "../header.php"; ?>
         <li>Megalo Box 1</li>
         <li>One Outs 1</li>
         <li>Shoujo&#9734;Kageki Revue Starlight 1</li>
+    </ul>
+
+	<strong>Friday, 14 September 2018</strong>
+    <ul class="p">
+        <li>Houseki no Kuni 1-3</li>
+        <li>Shoujo&#9734;Kageki Revue Starlight 1-3</li>
+    </ul>
+
+	<strong>Friday, 21 September 2018</strong>
+    <ul class="p">
+        <li>Space Brothers 1-3</li>
+        <li>Shoujo&#9734;Kageki Revue Starlight 4-6</li>
+    </ul>
+
+	<strong>Saturday, 22 September 2018 &nbsp; <font color="red">Movie Night</font></strong>
+    <ul class="p">
+        <li>Nausica&auml; of the Valley of the Wind</li>
+    </ul>
+
+	<strong>Friday, 28 September 2018</strong>
+    <ul class="p">
+        <li>Dragon Pilot 1-3</li>
+        <li>Shoujo&#9734;Kageki Revue Starlight 7-9</li>
+    </ul>
+
+	<strong>Friday, 5 October 2018</strong>
+    <ul class="p">
+        <li>Shoujo&#9734;Kageki Revue Starlight 10-12 (concludes)</li>
+		<li>Grand Blue 1</li>
+		<li>Girls und Panzer 1</li>
+		<li>A Place Further than the Universe 1</li>
+    </ul>
+
+	<strong>Friday, 12 October 2018</strong>
+    <ul class="p">
+        <li>Flip Flappers 1-3</li>
+		<li>A Place Further than the Universe 1-3</li>
     </ul>
 <hr>
 
@@ -1150,7 +1187,7 @@ Spring 2010</h2>
 <!-- showing 611 -->
     <strong>Saturday, 9 January 2010</strong>
     <ul class="p">
-      <li>Chäos;HEAd 1-12 (complete)
+      <li>Chï¿½os;HEAd 1-12 (complete)
     </ul>
 
 <!-- showing 612 -->
