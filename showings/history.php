@@ -59,6 +59,12 @@ include "../header.php"; ?>
         <li>Flip Flappers 1-3</li>
 		<li>A Place Further than the Universe 1-3</li>
     </ul>
+
+	<strong>Friday, 19 October 2018</strong>
+    <ul class="p">
+        <li>One Punch Man 1-3</li>
+		<li>A Place Further than the Universe 4-6</li>
+    </ul>
 <hr>
 
 <a name="Spring 2018"></a>
