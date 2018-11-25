@@ -4,7 +4,7 @@ include "../header.php"; ?>
 
 <h2>Past Showings</h2>
 
-<p><b>Fall 1990 - Spring 2018</b></p>
+<p><b>Fall 1990 - Fall 2018</b></p>
 <p>This file is in reverse-chronological order (by semester or season), which allows us to easily use a browser's &quot;find'' command to figure out how long it's been since we last showed something.</p>
 
 <hr>
@@ -64,6 +64,31 @@ include "../header.php"; ?>
     <ul class="p">
         <li>One Punch Man 1-3</li>
 		<li>A Place Further than the Universe 4-6</li>
+    </ul>
+
+	<strong>Friday, 26 October 2018 &nbsp; <font color="red">Halloween Showing</font></strong>
+    <ul class="p">
+        <li>Deadman Wonderland 1-2</li>
+		<li>Angels of Death 1-2</li>
+		<li>School-Live! 1-2</li>
+		<li>Hellsing 1-2</li>
+    </ul>
+
+	<strong>Friday, 2 November 2018</strong>
+    <ul class="p">
+		<li>Initial D 1-3</li>
+		<li>A Place Further than the Universe 7-9</li>
+    </ul>
+
+	<strong>Friday, 9 November 2018</strong>
+    <ul class="p">
+		<li>Legend of the Galactic Heroes 1-3</li>
+		<li>A Place Further than the Universe 10-13 (concludes)</li>
+    </ul>
+
+	<strong>Friday, 16 November 2018 &nbsp; <font color="red">Movie Night</font></strong>
+    <ul class="p">
+		<li>Perfect Blue</li>
     </ul>
 <hr>
 
