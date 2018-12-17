@@ -90,6 +90,30 @@ include "../header.php"; ?>
     <ul class="p">
 		<li>Perfect Blue</li>
     </ul>
+
+	<strong>Friday, 30 November 2018</strong>
+    <ul class="p">
+		<li>Revolutionary Girl Utena 1-3</li>
+		<li>Neon Genesis Evangelion 1-3</li>
+    </ul>
+
+	<strong>Friday, 7 December 2018</strong>
+    <ul class="p">
+		<li>Bungou Stray Dogs 1-3</li>
+		<li>World Trigger 1-3</li>
+    </ul>
+
+	<strong>Friday, 14 December 2018 &nbsp; <font color="red">Brain Reset!</font></strong>
+    <ul class="p">
+		<li>50% OFF ???</li>
+		<li>Code Ment ???</li>
+		<li>Cute High Earth Defense Club Love! 1</li>
+		<li>Cuticle Detective Inaba 1</li>
+		<li>Heaven’s Lost Property 1</li>
+		<li>Neo Yokio 1-3</li>
+		<li>Plastic Neesan 1</li>
+		<li>Rail Wars 1</li>
+    </ul>
 <hr>
 
 <a name="Spring 2018"></a>
