@@ -4,11 +4,136 @@ include "../header.php"; ?>
 
 <h2>Past Showings</h2>
 
-<p><b>Fall 1990 - Fall 2018</b></p>
+<p><b>Fall 1990 - Spring 2019</b></p>
 <p>This file is in reverse-chronological order (by semester or season), which allows us to easily use a browser's &quot;find'' command to figure out how long it's been since we last showed something.</p>
 
 <hr>
 
+<a name="Spring 2019"></a>
+<h2>Spring 2019</h2>
+<h3 class="history">
+    Spring Series: <strong>Princess Tutu</strong>
+</h3>
+    <strong>Friday, 8 February 2019 &nbsp; <font color="red">Spring Party</font></strong>
+    <ul class="p">
+        <li>Princess Tutu 1</li>
+        <li>Tsuritama 1</li>
+        <li>Golden Kamuy 1</li>
+        <li>Genshiken 1</li>
+    </ul>
+
+    <strong>Friday, 15 February 2019 &nbsp; <font color="red">Spring Sports Festival</font></strong>
+    <ul class="p">
+        <li>Hajime No Ippo 1-3</li>
+        <li>Gurazeni 1-3</li>
+    </ul>
+
+    <strong>Friday, 22 February 2019 &nbsp; <font color="red">Spring Sports Festival Part II</font></strong>
+    <ul class="p">
+        <li>Chihayafuru 1-3</li>
+        <li>Princess Tutu 1-3</li>
+    </ul>
+
+    <strong>Friday, 1 March 2019 &nbsp; <font color="red">Spring Sports Festival Finale</font></strong>
+    <ul class="p">
+        <li>Hikaru no Go 1-3</li>
+        <li>Princess Tutu 4-6</li>
+    </ul>
+
+    <strong>Friday, 8 March 2019</strong>
+    <ul class="p">
+        <li>Ouran High School Host Club 1-3</li>
+        <li>Princess Tutu 7-9</li>
+    </ul>
+
+    <strong>Friday, 15 March 2019</strong>
+    <ul class="p">
+        <li>Kyo&#772;kai no Rinne 1-3</li>
+        <li>Princess Tutu 10-12</li>
+    </ul>
+
+    <strong>Friday, 16 March 2019 &nbsp; <font color="red">Movie Night</font></strong>
+    <ul class="p">
+        <li>Akira</li>
+    </ul>
+
+    <strong>Friday, 22 March 2019</strong>
+    <ul class="p">
+        <li>Cowboy Bebop 1-3</li>
+        <li>Princess Tutu 13-15</li>
+    </ul>
+
+    <strong>Friday, 5 April 2019</strong>
+    <ul class="p">
+        <li>Baka to Test to Shoukanjuu 1-3</li>
+        <li>Princess Tutu 16-18</li>
+    </ul>
+
+    <strong>Friday, 12 April 2019 &nbsp; <font color="red">CPW Movie Night</font></strong>
+    <ul class="p">
+        <li>Aura: Koga Maryuin's Last War</li>
+    </ul>
+
+    <strong>Friday, 26 April 2019</font></strong>
+    <ul class="p">
+        <li>The Quintessential Quintuplets 1-3</li>
+        <li>Princess Tutu 19-21</li>
+    </ul>
+
+    <strong>Friday, 3 May 2019 &nbsp; <font color="red">Club Elections</font></strong>
+    <ul class="p">
+        <li>Kaichou wa Maid-sama! 1-3</li>
+        <li>Princess Tutu 22-24</li>
+    </ul>
+
+    <strong>Friday, 10 May 2019</strong>
+    <ul class="p">
+        <li>Chobits 1-4</li>
+        <li>Princess Tutu 25-26 (concludes)</li>
+    </ul>
+
+    <strong>Friday, 17 May 2019 &nbsp; <font color="red">Brain Reset!</font></strong>
+    <ul class="p">
+        <li>Aho Girl 1</li>
+        <li>Attack on Titan: Junior High ???</li>
+        <li>Ghost Stories (Dub) ???</li>
+        <li>Isekai Quartet ???</li>
+        <li>Nanbaka 1</li>
+        <li>Neo Yokio 4</li>
+        <li>Sarazanmai 1</li>
+        <li>Seitokai Yakuindomo 1</li>
+        <li>Space Dandy 1</li>
+        <li>Squid Girl 1</li>
+        <li>Yurikuma Arashi 1</li>
+    </ul>
+<hr>
+
+<a name="IAP 2019"></a>
+<h2>IAP 2019</h2>
+<h3 class="history">
+    IAP Series:
+    Complete series marathons each week.
+</h3>
+    <strong>Friday, 11 January 2019 &nbsp; <font color="red">First IAP Marathon</font></strong>
+    <ul class="p">
+        <li>Baccano! 1-13 (complete)</li>
+    </ul>
+
+    <strong>Friday, 18 January 2019 &nbsp; <font color="red">Second IAP Marathon</font></strong>
+    <ul class="p">
+        <li>KonoSuba 1-10 (complete)</li>
+    </ul>
+
+    <strong>Friday, 25 January 2019 &nbsp; <font color="red">Third IAP Marathon</font></strong>
+    <ul class="p">
+        <li>Gangsta 1-12 (complete)</li>
+    </ul>
+
+    <strong>Friday, 1 February 2019 &nbsp; <font color="red">Final IAP Marathon</font></strong>
+    <ul class="p">
+        <li>The Royal Tutor 1-12 (complete)</li>
+    </ul>
+<hr>
 
 <a name="Fall 2018"></a>
 <h2>Fall 2018</h2>
