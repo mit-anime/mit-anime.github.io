@@ -32,11 +32,10 @@ The MIT Anime Club is a non-profit MIT student organization dedicated
 <p><b>Banners</b></p>
 
 To link to us, use any of the buttons below. Our web URL is anime.mit.edu. Thanks!
-<p>
 <img src="../images/button80x15.png">
 <img src="../images/button88x31.png">
 <img src="../images/button120x60.png">
 <img src="../images/button120x90.png">
-<img src="../images/button120x90_2.png"><br/>
+<img src="../images/button120x90_2.png">
 <img src="../images/button1.png">
 <img src="../images/button2.png">
