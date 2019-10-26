@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: Home
+permalink: /
 ---
+
+Welcome to the MIT Anime Club's website! We are a non-profit MIT student cultural organization dedicated to increasing the awareness of anime, or Japanese animation, in the MIT community.
