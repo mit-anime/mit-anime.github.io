@@ -3,8 +3,7 @@ layout: page
 title: Showings
 ---
 
-Showing Directions
-------------------
+## Showing Directions
 
 ### MIT classrooms are designated by building number, then floor, then room number.
 
@@ -18,20 +17,24 @@ floor)](http://whereis.mit.edu/map-jpg?mapterms=W20+445&mapsearch=go) \|
 [The Coffeehouse (3rd floor Student
 Center)](http://whereis.mit.edu/map-jpg?mapterms=W20&mapsearch=go)
 
-
 **How to Get to Campus**
 
-[View Larger
-Map](http://maps.google.com/maps?f=q&source=embed&hl=en&q=MIT&ie=UTF8&sll=42.360538,-71.090074&sspn=0.019788,0.038418&ei=c196Sqn4GIXKuwPZ78TXAw&sig2=SIwD7_aTZ0y0tY7iuvXqfA&cd=1&usq=Massachusetts+Institute+of+Technology&geocode=FbxYhgIdCTPD-w&cid=4647775478523228959&li=lmd&ll=42.358972,-71.093495&spn=0.006295,0.006295)
+<center>
+    <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=MIT&amp;ie=UTF8&amp;sll=42.360538,-71.090074&amp;sspn=0.019788,0.038418&amp;ei=c196Sqn4GIXKuwPZ78TXAw&amp;sig2=SIwD7_aTZ0y0tY7iuvXqfA&amp;cd=1&amp;usq=Massachusetts+Institute+of+Technology&amp;geocode=FbxYhgIdCTPD-w&amp;cid=4647775478523228959&amp;li=lmd&amp;ll=42.358972,-71.093495&amp;spn=0.006295,0.006295&amp;output=embed"></iframe>
+    <br />
+    <small>
+        <a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;q=MIT&amp;ie=UTF8&amp;sll=42.360538,-71.090074&amp;sspn=0.019788,0.038418&amp;ei=c196Sqn4GIXKuwPZ78TXAw&amp;sig2=SIwD7_aTZ0y0tY7iuvXqfA&amp;cd=1&amp;usq=Massachusetts+Institute+of+Technology&amp;geocode=FbxYhgIdCTPD-w&amp;cid=4647775478523228959&amp;li=lmd&amp;ll=42.358972,-71.093495&amp;spn=0.006295,0.006295" style="color:#990000">View Larger Map</a>
+    </small>
+</center>
 
 The easiest way to get to MIT is by the subway. Take the Red Line to
 Kendall Square.
 
-If you were traveling *outbound*, say from BU, you\'ll come up on the
+If you were traveling _outbound_, say from BU, you\'ll come up on the
 Coop side of Main Street. Cross Main Street and continue in the same
 direction.
 
-If you were traveling *inbound*, say from Harvard, there are two places
+If you were traveling _inbound_, say from Harvard, there are two places
 you can come up.
 
 If you can look across Main Street and see the other T entrance, just
