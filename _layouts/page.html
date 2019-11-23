@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+    <!-- access root directory in subdirectory from Jekyll  -->
+    <base href="{{site.baseurl}}/">
 		<meta charset="UTF-8">
 		<title>MIT Anime Club<?php if($title != "") echo " :: " . $title; ?></title>
 		<link rel="stylesheet" type="text/css" href="default.css">
@@ -19,6 +21,7 @@
       		  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
         </script>
+   
 	</head>
 
 	<body>
