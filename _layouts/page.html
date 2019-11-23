@@ -1,68 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-    <!-- access root directory in subdirectory from Jekyll  -->
-    <base href="{{site.baseurl}}/">
-		<meta charset="UTF-8">
-		<title>MIT Anime Club<?php if($title != "") echo " :: " . $title; ?></title>
-		<link rel="stylesheet" type="text/css" href="default.css">
-        <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
-<?php echo $includes; ?>
-		<meta name="copyright" content="Copyright ©<?php echo date('Y'); ?> MIT Anime Club" />
-		<meta name="description" content="A non-profit MIT student organization dedicated to increasing the awareness of anime, or Japanese animation, in the MIT community and the general public." />
-        <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-10583169-1']);
-        _gaq.push(['_trackPageview']);
 
-        (function() {
-      		  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      		  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + google-analytics.com/ga.js';
-      		  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-        </script>
-   
-	</head>
+<head>
+	<!-- access root directory in subdirectory from Jekyll  -->
+	<base href="{{site.baseurl}}/">
+	<meta charset="UTF-8">
+	<title>MIT Anime Club</title>
+	<link rel="stylesheet" type="text/css" href="default.css">
+	<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+	<meta name="copyright" content="Copyright ©<?php echo date('Y'); ?> MIT Anime Club" />
+	<meta name="description"
+		content="A non-profit MIT student organization dedicated to increasing the awareness of anime, or Japanese animation, in the MIT community and the general public." />
+</head>
 
-	<body>
-		<div id="header">
-			<div id="banner">
-				<div><a href=""><img src="images/logo.png" alt="MIT Anime" width="234" height="71" /></a></div>
-			</div>
-			<div id="links">
-				<ul>
-					<li><a href="">Home</a></li>
-					<li><a href="showings/">Showings</a>
-						<ul>
-							<li><a href="showings/history.php">History</a></li>
-							<li><a href="showings/directions.php">Directions</a></li>
-						</ul>
-					</li>
-					<li><a href="info/">Club Information</a>
-						<ul>
-							<li><a href="info/membership.php">Membership</a></li>
-							<li><a href="info/officers.php">Officers</a></li>
-						</ul>
-					</li>
-					<li><a href="library/">Library</a>
-						<ul>
-							<li><a href="library/rules.php">Rules & Office Hours</a></li>
-							<li><a href="library/faq.php">FAQ</a></li>
-							<li><a href="library/delivery.php">Request a Delivery</a></li>
-						</ul>
-					</li>
-					<li><a href="resources/">Resources</a></li>
-					<li><a href="http://www.google.com/calendar/embed?title=MIT%20Anime%20Club%20Calendar&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ed9b6ocj7rk8g1629i4dfo7mac%40group.calendar.google.com&amp;color=%232952A3&amp;src=gfj6lqe4rbkejoq30fbiu6vnpg%40group.calendar.google.com&amp;color=%23A32929&amp;src=80ojt5isrqvh2fpsg8ive2cg30%40group.calendar.google.com&amp;color=%23A32929&amp;src=0qvonmead4m5g6d9bvnnioeuu8%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FNew_York" target="_blank">Calendar</a></li>
-				</ul>
-			</div>
+<body>
+	<div id="header">
+		<div id="banner">
+			<div><a href=""><img src="images/logo.png" alt="MIT Anime" width="234" height="71" /></a></div>
 		</div>
-		<div id="body">
-			<div id="content">
-                {{ content }}
-			</div>
+		<div id="links">
+			<ul>
+				<li><a href="">Home</a></li>
+				<li><a href="showings/">Showings</a>
+					<ul>
+						<li><a href="showings/history.php">History</a></li>
+						<li><a href="showings/directions.php">Directions</a></li>
+					</ul>
+				</li>
+				<li><a href="info/">Club Information</a>
+					<ul>
+						<li><a href="info/membership.php">Membership</a></li>
+						<li><a href="info/officers.php">Officers</a></li>
+					</ul>
+				</li>
+				<li><a href="library/">Library</a>
+					<ul>
+						<li><a href="library/rules.php">Rules & Office Hours</a></li>
+						<li><a href="library/faq.php">FAQ</a></li>
+						<li><a href="library/delivery.php">Request a Delivery</a></li>
+					</ul>
+				</li>
+				<li><a href="resources/">Resources</a></li>
+				<li><a href="http://www.google.com/calendar/embed?title=MIT%20Anime%20Club%20Calendar&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ed9b6ocj7rk8g1629i4dfo7mac%40group.calendar.google.com&amp;color=%232952A3&amp;src=gfj6lqe4rbkejoq30fbiu6vnpg%40group.calendar.google.com&amp;color=%23A32929&amp;src=80ojt5isrqvh2fpsg8ive2cg30%40group.calendar.google.com&amp;color=%23A32929&amp;src=0qvonmead4m5g6d9bvnnioeuu8%40group.calendar.google.com&amp;color=%23AB8B00&amp;ctz=America%2FNew_York"
+						target="_blank">Calendar</a></li>
+			</ul>
 		</div>
-		<div id="footer">
-			<p><a href="admin/">Admin</a> | Copyright &copy; <?php echo date('Y'); ?> MIT Anime Club</p>
+	</div>
+	<div id="body">
+		<div id="content">
+			{{ content }}
 		</div>
-	</body>
+	</div>
+	<div id="footer">
+		<p>Copyright &copy; 2019 MIT Anime Club</p>
+	</div>
+</body>
+
 </html>
