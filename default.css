@@ -123,12 +123,12 @@ tr.chart-title {
 	background-color:#990000;
 	color:#FFFFFF;
 	font-weight:bold;
-	text-align:center;	
+	text-align:center;
 }
 
 tr.chart-one {
 	background-color:#FFC8C8;
-	color:#000000;	
+	color:#000000;
 }
 
 tr.chart-two {
@@ -166,7 +166,7 @@ div#footer a:active, div#footer a:hover {
 }
 
 div#smaller {
-	max-width: 640px;
+	max-width: 800px;
 	margin:0 auto;
 }
 
@@ -199,6 +199,16 @@ div#showing {
 }
 div#info img {
 	border: 1px solid black;
+}
+div#events {
+	padding: 10px;
+	display: flex;
+}
+.row {
+	display: flex;
+}
+.column {
+	flex: 50%;
 }
 
 /* GENERAL */
