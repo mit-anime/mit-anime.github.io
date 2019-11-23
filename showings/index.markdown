@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Showings
-permalink: /showings/
 ---
 
 MIT Anime holds weekly free showings, open to all current MIT students, faculty and staff. Most showings are in Japanese audio with English subtitles. Showings are usually held on Friday nights starting at 7:00pm (which is 7:10pm) in room 3-133.
