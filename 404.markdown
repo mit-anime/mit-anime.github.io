@@ -3,4 +3,18 @@ layout: page
 title: Not Found
 ---
 
-**Page not found :(**
+## File not found :(
+
+I'm sorry, the page you requested cannot be found. It may have been
+removed, had it's name changed, or is temporarily unavailable.
+The following troubleshooting steps may help:
+
+- If you typed the URL, check the spelling.
+- Try the navbar at the top
+  and see if it helps you locate the information you want.
+- Click [here](<javascript:history.go(-1)>)
+  to go back to the previous page you came from.
+  You can then report the bad link to the page owner of the previous page.
+
+If you still can't find the document you're looking for please contact
+anime-inquiry \[at\] mit \[dot\] com.
