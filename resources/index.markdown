@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Resources
-permalink: /resources/
 ---
 
 <b>General Anime Resources</b><br />
@@ -10,7 +9,7 @@ permalink: /resources/
 <b>MIT and Local Resources</b><br />
 <a href="#mit">MIT and Anime</a> | <a href="#mitorg">MIT Anime-Related Organizations</a><br />
 <a href="#bostonorg">Local Anime-Related Organizations</a> | <a href="#stores">Local Anime and Manga Stores</a>
-</center> 
+</center>
 
 <p><a name="intro"></a><b>Introducing Anime</b></p>
 <table class="chart">
@@ -32,7 +31,7 @@ permalink: /resources/
 	<tr class="chart-two"><td class="chart-left"><a href="http://www.myanimelist.net">MyAnimeList</a></td><td class="chart-cell">Community that allows users to keep track of their collections and watch lists while interacting with other fans.</td></tr>
 
 	</tr>
- 
+
 </table>
 
 <p><a name="culture"></a>
@@ -70,13 +69,13 @@ permalink: /resources/
 
 	<tr class="chart-two"><td class="chart-left"><a href="classes.php">Anime-related MIT Classes</a></td>
 	<td class="chart-cell">Many subjects offered at MIT may help to establish a context for viewing anime.  This page keeps track of such classes for the current school year. <i>(Maintained by MIT Anime)</i></td>
-	</tr>  
+	</tr>
     <tr class="chart-one"><td class="chart-left"><a href="http://library.mit.edu/F/SY9LQT4G1URB1X9P1CA3XVKXFIBEKHNLUYP52D7T4FHGJ1AEMR-31936?func=find-a&find_code=WRD&request=anime&request_op=OR&find_code=WRD&request=manga&request_op=AND&find_code=WRD&request=&adjacent=N&filter_code_2=WYR&filter_request_2=&local_base=MIT01PUB&filter_code_4=WLB&filter_request_4=&filter_code_3=WYR&filter_request_3=&filter_code_1=WLG&filter_request_1=&filter_code_5=WCL&filter_request_5=&Search=Search">Anime-Related Books</a></td>
 
 	<td class="chart-cell">List of books on anime and manga available in MIT libraries.<i> (Links to Barton library catalog search.)</i></td>
 	</tr>
 </table>
-    
+
 <p><a name="mitorg"></a>
 <b>MIT Anime-Related Organizations</b></p>
 <table class="chart">

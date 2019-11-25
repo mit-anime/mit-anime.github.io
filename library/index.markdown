@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Library Hours
-permalink: /library/
 ---
 
 <p>These are the times when someone will definitely be in the library. Officers often hold unscheduled office hours, so if you're in the Student Center, feel free to stop by!</p>
