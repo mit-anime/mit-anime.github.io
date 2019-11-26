@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+title: MIT Anime Club
 ---
 
 <div id="smaller">

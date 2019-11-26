@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Membership Information
-permalink: /info/membership
 ---
 
 Club Membership

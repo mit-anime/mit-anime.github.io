@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Showings
+title: Directions
 ---
 
 ## Showing Directions

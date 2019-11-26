@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Club Info
-permalink: /info
 ---
 
 **Overview**
@@ -52,7 +51,7 @@ about dates and times of these meetings .
 **Banners**
 
 To link to us, use any of the buttons below. Our web URL is
-anime.mit.edu. Thanks! 
+anime.mit.edu. Thanks!
 ![](images/button80x15.png)
 ![](images/button88x31.png)
 ![](images/button120x60.png)
