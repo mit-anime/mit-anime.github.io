@@ -2,11 +2,9 @@
 <html lang="en">
 
 <head>
-	<!-- access root directory in subdirectory from Jekyll  -->
-	<base href="{{site.baseurl}}">
 	<meta charset="UTF-8">
 	<title>MIT Anime Club</title>
-	<link rel="stylesheet" type="text/css" href="default.css">
+	<link rel="stylesheet" type="text/css" href={{ "default.css" | relative_url }}>
 	<meta name="copyright" content="Copyright ©2019 MIT Anime Club" />
 	<meta name="description"
 		content="A non-profit MIT student organization dedicated to increasing the awareness of anime, or Japanese animation, in the MIT community and the general public." />
@@ -15,30 +13,30 @@
 <body>
 	<div id="header">
 		<div id="banner">
-			<div><a href=""><img src="images/logo.png" alt="MIT Anime" width="234" height="71" /></a></div>
+			<img src={{ "/images/logo.png" | relative_url }} alt="MIT Anime" width="234" height="71" />
 		</div>
 		<div id="links">
 			<ul>
-				<li><a href="">Home</a></li>
-				<li><a href="showings/">Showings</a>
+				<li><a href={{ "/" | relative_url }}>Home</a></li>
+				<li><a href={{ "/showings" | relative_url }}>Showings</a>
 					<ul>
-						<li><a href="showings/history.php">History</a></li>
-						<li><a href="showings/directions">Directions</a></li>
+						<li><a href={{ "/showings/history.php" | relative_url }}>History</a></li>
+						<li><a href={{ "/showings/directions" | relative_url }}>Directions</a></li>
 					</ul>
 				</li>
-				<li><a href="info/">Club Information</a>
+				<li><a href={{ "/info" | relative_url }}>Club Information</a>
 					<ul>
-						<li><a href="info/membership">Membership</a></li>
-						<li><a href="info/officers">Officers</a></li>
+						<li><a href={{ "/info/membership" | relative_url }}>Membership</a></li>
+						<li><a href={{ "/info/officers" | relative_url }}>Officers</a></li>
 					</ul>
 				</li>
-				<li><a href="library/">Library</a>
+				<li><a href={{ "/library" | relative_url }}>Library</a>
 					<ul>
-						<li><a href="library/rules">Rules & Office Hours</a></li>
-						<li><a href="library/faq">FAQ</a></li>
+						<li><a href={{ "/library/rules" | relative_url }}>Rules & Office Hours</a></li>
+						<li><a href={{ "/library/faq" | relative_url }}>FAQ</a></li>
 					</ul>
 				</li>
-				<li><a href="resources/">Resources</a></li>
+				<li><a href={{ "/resources" | relative_url }}>Resources</a></li>
 				<li><a href="https://calendar.google.com/calendar/embed?title=MIT+Anime+Club+Calendar&height=600&wkst=1&bgcolor=%23FFFFFF&src=ed9b6ocj7rk8g1629i4dfo7mac@group.calendar.google.com&color=%232952A3&src=gfj6lqe4rbkejoq30fbiu6vnpg@group.calendar.google.com&color=%23A32929&src=0qvonmead4m5g6d9bvnnioeuu8@group.calendar.google.com&color=%23AB8B00&ctz=America/New_York"
 						target="_blank">Calendar</a></li>
 			</ul>
