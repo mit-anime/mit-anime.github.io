@@ -52,10 +52,10 @@ about dates and times of these meetings .
 
 To link to us, use any of the buttons below. Our web URL is
 anime.mit.edu. Thanks!
-![](images/button80x15.png)
-![](images/button88x31.png)
-![](images/button120x60.png)
-![](images/button120x90.png)
-![](images/button120x90_2.png)
-![](images/button1.png)
-![](images/button2.png)
+![](/images/button80x15.png)
+![](/images/button88x31.png)
+![](/images/button120x60.png)
+![](/images/button120x90.png)
+![](/images/button120x90_2.png)
+![](/images/button1.png)
+![](/images/button2.png)
