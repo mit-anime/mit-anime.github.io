@@ -30,8 +30,6 @@ title: Resources
 	</tr>
 	<tr class="chart-two"><td class="chart-left"><a href="http://www.myanimelist.net">MyAnimeList</a></td><td class="chart-cell">Community that allows users to keep track of their collections and watch lists while interacting with other fans.</td></tr>
 
-	</tr>
-
 </table>
 
 <p><a name="culture"></a>
