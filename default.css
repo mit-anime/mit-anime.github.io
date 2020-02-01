@@ -106,7 +106,7 @@ div#content {
 	max-width: 896px;
 }
 
-table.chart {
+table {
 	background-color:#990000;
 	font-family:Helvetica, Arial, sans-serif;
 	border-collapse:collapse;
@@ -119,30 +119,30 @@ table.chart {
 	width: expression(this.width > 600 ? 600: true);
 }
 
-tr.chart-title {
+table > thead > tr {
 	background-color:#990000;
 	color:#FFFFFF;
 	font-weight:bold;
 	text-align:center;
 }
 
-tr.chart-one {
+table > tbody > tr:nth-child(odd) {
 	background-color:#FFC8C8;
 	color:#000000;
 }
 
-tr.chart-two {
+table > tbody > tr:nth-child(even) {
 	background-color:#FFFFFF;
 	color:#000000;
 }
 
-td.chart-left {
+table > tbody td:first-child {
 	font-weight:bold;
 	text-align:right;
 	padding:0px 10px
 }
 
-td.chart-cell {
+table > tbody td:not(:first-child) {
 	padding:0px 10px
 }
 

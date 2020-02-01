@@ -49,12 +49,3 @@ To become a trial member, e-mail <anime-library@mit.edu> and we will add you as 
 -   Overdue fines are fifty cents ($0.50) per day per item, for up to the MSRP replacement cost of the title.
 -   If you lose, break, scratch, demagnetize, or otherwise render a title uncirculatable, you will be held responsible for the MSRP replacement cost of the title, circumvented by providing an actual replacement copy of the item.
 
-### How to request items for checkout
-
-Requests are not necessary if you come to office hours to check items out. However, if you would like to pick up items at a showing or event, or would like to have an item delivered, please e-mail <anime-library@mit.edu> with a list of your requests.
-
--   **To request a delivery or pick-up,** please fill out the delivery [form](delivery.php). All items delivered are still subject to the standard rules - in particular, items must be returned on time to the library, even if there are no delivery hours available.
--   **For pick ups at showings,** items will be handed out during intermissions; you must be present to claim them. Please put in your request by e-mail or form ahead of time (no later than noon on the day of the showing), or in writing at the previous week's showing.
--   Use the item ID numbers in your request (titles are optional), and please do not request items that don't appear on the lists.
--   Request items in priority order, and we will best to give you the highest-ranking titles that do not conflict with other people's requests. You may wish to request more items than you expect to get in order to maximize the number of requests we can fulfill for you. If you wish to check out fewer items than the checkout limit (5 items per item type for up to 30 items), please specify this in your e-mail or form entry.
-

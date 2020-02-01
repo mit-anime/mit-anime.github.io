@@ -25,22 +25,22 @@ and artistic connections between anime and the community.
 There is a mailing list for all people interested in announcements about
 club showings. Please send email to <anime-inquiry@mit.edu> if you would
 like to be added. You can also [become a library
-member](../library/rules.php).
+member](../library/rules).
 
 **Mailing address**
 
 Paper mail may be sent to the club at the following address:
 
-MIT Anime Club\
-W20-445\
-77 Massachusetts Ave.\
+MIT Anime Club  
+W20-445  
+77 Massachusetts Ave.  
 Cambridge, MA 02139-4307
 
 **Additional Information**
 
 If you have any comments, questions, or suggestions, you can reach the
 MIT Anime Club officers via e-mail at <anime-inquiry@mit.edu>, or
-individually by the e-mail addresses listed [here](officers.php).
+individually by the e-mail addresses listed [here](officers).
 
 We also encouage concerned members to come to club business meetings.
 Any member who would like to become more involved in the club, as well

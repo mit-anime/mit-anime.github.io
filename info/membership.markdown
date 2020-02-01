@@ -21,7 +21,7 @@ in elections.
 
 Membership alone does not entitle one to check out items from the
 library, however; for that information, please check out our page on
-[library rules.](../library/rules.php)
+[library rules.](../library/rules)
 
 **Discounts**
 
