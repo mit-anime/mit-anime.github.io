@@ -31,9 +31,9 @@ member](../library/rules.php).
 
 Paper mail may be sent to the club at the following address:
 
-MIT Anime Club\
-W20-445\
-77 Massachusetts Ave.\
+MIT Anime Club  
+W20-445  
+77 Massachusetts Ave.  
 Cambridge, MA 02139-4307
 
 **Additional Information**
