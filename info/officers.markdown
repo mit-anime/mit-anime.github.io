@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: centered-page
 title: Officers
 ---
 
@@ -14,7 +14,7 @@ Past Officers
 Please send external e-mail to anime-inquiry@mit.edu. Only contact officers directly if you need to contact a specific officer.
 #### To protect against spam only the usernames of our officers are listed. Add "@mit.edu" to the username to get the e-mail address.
 
-### Fall 2019 - Spring 2020
+### Fall 2019 -- Spring 2020
 
 | Position         | Name            | Username |
 |------------------|-----------------|----------|
@@ -27,7 +27,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Webmaster        | Jason Lam       | jasonlam |
 | Public Relations | Wilson Guo      | gowilguo |
 
-### Fall 2018 - Spring 2019
+### Fall 2018 -- Spring 2019
 
 | Position        | Name              | Username |
 |-----------------|-------------------|----------|
@@ -38,7 +38,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Publicity Chair | Wilson Guo        | gowilguo |
 | Webmaster       | Tony Wang         | twang6   |
 
-### Fall 2017-Spring 2018
+### Fall 2017 -- Spring 2018
 
 | Position       | Name              | Username |
 |----------------|-------------------|----------|
@@ -48,7 +48,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Secretary      | Jessica Liu       | jvliu    |
 | Librarian      | Raudel Hernandez  | raudelh  |
 
-### Fall 2016-Spring 2017
+### Fall 2016 -- Spring 2017
 
 | Position       | Name             | Username |
 |----------------|------------------|----------|
@@ -60,7 +60,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Librarian      | Willie Chen      | wpc      |
 | Librarian      | Raudel Hernandez | raudelh  |
 
-### Fall 2015-Spring 2016
+### Fall 2015 -- Spring 2016
 
 | Position        | Name             | Username |
 |-----------------|------------------|----------|
@@ -73,7 +73,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Librarian       | Raudel Hernandez | raudelh  |
 | Publicity Chair | Istvan Chung     | ikdc     |
 
-### Fall 2014-Spring 2015
+### Fall 2014 -- Spring 2015
 
 | Position       | Name             | Username |
 |----------------|------------------|----------|
@@ -84,7 +84,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Librarian      | DeJuan Anderson  | dejuan   |
 | Librarian      | Willie Chen      | wpc      |
 
-### Fall 2013-Spring 2014
+### Fall 2013 -- Spring 2014
 
 | Position       | Name             | Username |
 |----------------|------------------|----------|
@@ -95,7 +95,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Librarian      | Miller Li        | minyli   |
 | Librarian      | Samuel Duchovni  | dukhovni |
 
-### Fall 2012-Spring 2013
+### Fall 2012 -- Spring 2013
 
 | Position             | Name                | Username  |
 |----------------------|---------------------|-----------|
@@ -106,7 +106,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Library Consultant   | Law Smith           | sonokin   |
 | Librarian            | DeJuan Anderson     | dejuan    |
 
-### Fall 2011-Spring 2012
+### Fall 2011 -- Spring 2012
 
 | Position          | Name                | Username      |
 |-------------------|---------------------|---------------|
@@ -121,7 +121,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Publicity         | Jennifer Fu         | jennifu       |
 | Webmaster         | Galin Statev        | g\_statev     |
 
-### Fall 2010-Spring 2011
+### Fall 2010 -- Spring 2011
 
 | Position       | Name                |
 |----------------|---------------------|
@@ -135,7 +135,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Publicity      | Galin Statev        |
 | Webmaster      | Thomas Vandermeulen |
 
-### Fall 2009-Spring 2010
+### Fall 2009 -- Spring 2010
 
 | Position       | Name                    |
 |----------------|-------------------------|
@@ -150,7 +150,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Webmaster      | Jennifer Fu, Justin Lan |
 | Social Chair   | Christina Qi            |
 
-### Fall 2008 - Spring 2009
+### Fall 2008 -- Spring 2009
 
 | Position           | Name                  |
 |--------------------|-----------------------|
@@ -163,7 +163,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Industry Relations | Denis Moskowitz       |
 | Publicity          | Alex Perez, Maes Pann |
 
-### Fall 2007 - Spring 2008
+### Fall 2007 -- Spring 2008
 
 | Position           | Name                                       |
 |--------------------|--------------------------------------------|
@@ -176,7 +176,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Industry Relations | Jennie Hango                               |
 | Publicity          | Alex Perez, Maes Pann                      |
 
-### Fall 2006 - Spring 2007
+### Fall 2006 -- Spring 2007
 
 | Position           | Name                                                                     |
 |--------------------|--------------------------------------------------------------------------|
@@ -189,7 +189,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Publicity          | Jennifer Laurie                                                          |
 | Social Chair       | Kadeem Collins                                                           |
 
-### Fall 2005 - Spring 2006
+### Fall 2005 -- Spring 2006
 
 | Position           | Name                           |
 |--------------------|--------------------------------|
@@ -206,7 +206,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Social Chair       | Dan Cote                       |
 | MITeiru! editor    | Sean Wickman                   |
 
-### Fall 2004 - Spring 2005
+### Fall 2004 -- Spring 2005
 
 | Position           | Name                             |
 |--------------------|----------------------------------|
@@ -223,7 +223,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Social Chair       | Dan Cote                         |
 | MITeiru! editor    | Stephi-charat                    |
 
-### Fall 2003 - Spring 2004
+### Fall 2003 -- Spring 2004
 
 | Position        | Name            |
 |-----------------|-----------------|
@@ -237,7 +237,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Publicity       | Rydia Vielehr   |
 | MITeiru! editor | Stephi-charat   |
 
-### Fall 2002 - Spring 2003
+### Fall 2002 -- Spring 2003
 
 | Position         | Name             |
 |------------------|------------------|
@@ -254,7 +254,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | MITeiru! editor  | Stephi-charat    |
 | Showing Marshall | Sameer Gandhi    |
 
-### Fall 2001 - Spring 2002
+### Fall 2001 -- Spring 2002
 
 | Position       | Name          |
 |----------------|---------------|
@@ -267,7 +267,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Publicity      | Yin Chen      |
 | Webmaster      | Sean Leonard  |
 
-### Fall 2000 - Spring 2001
+### Fall 2000 -- Spring 2001
 
 | Position       | Name            |
 |----------------|-----------------|
@@ -280,7 +280,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Publicity      | Yin Chen        |
 | Webmaster      | Fast Cart       |
 
-### Fall 1999 - Spring 2000
+### Fall 1999 -- Spring 2000
 
 | Position       | Name         |
 |----------------|--------------|
@@ -292,7 +292,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Publicity      | Yin Chen     |
 | Webmaster      | Fast Cart    |
 
-### Fall 1998 - Spring 1999
+### Fall 1998 -- Spring 1999
 
 | Position       | Name                     |
 |----------------|--------------------------|
@@ -304,7 +304,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Communications | Fast Cart                |
 | Publicity      | Yin Chen, Jennifer Chang |
 
-### Fall 1997 - Spring 1998
+### Fall 1997 -- Spring 1998
 
 | Position       | Name                    |
 |----------------|-------------------------|
@@ -318,7 +318,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Publicity      | Erwin Lau, Elliotte Kim |
 | Shadow Cabinet | Mark Chlienskas         |
 
-### Fall 1996 - Spring 1997
+### Fall 1996 -- Spring 1997
 
 | Position       | Name                |
 |----------------|---------------------|
@@ -330,7 +330,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Communications | Fast Cart           |
 | Publicity      | Carl Stern          |
 
-### Fall 1995 - Spring 1996
+### Fall 1995 -- Spring 1996
 
 | Position       | Name                   |
 |----------------|------------------------|
@@ -342,7 +342,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Communications | Fast Cart, Dan Hartman |
 | Publicity      | Elliotte Kim           |
 
-### Fall 1994 - Spring 1995
+### Fall 1994 -- Spring 1995
 
 | Position       | Name             |
 |----------------|------------------|
@@ -353,7 +353,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Librarian      | Seungtaek Choi   |
 | Communications | Dan Hartman      |
 
-### Fall 1993 - Spring 1994
+### Fall 1993 -- Spring 1994
 
 | Position       | Name             |
 |----------------|------------------|
@@ -364,7 +364,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Librarian      | Seungtaek Choi   |
 | Communications | Fast Cart        |
 
-### Fall 1992 - Spring 1993
+### Fall 1992 -- Spring 1993
 
 | Position       | Name            |
 |----------------|-----------------|
