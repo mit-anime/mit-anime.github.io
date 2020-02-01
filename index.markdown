@@ -27,7 +27,7 @@ title: MIT Anime Club
             <div id="events">
                 <iframe
                     src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=Z2ZqNmxxZTRyYmtlam9xMzBmYml1NnZucGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=MHF2b25tZWFkNG01ZzZkOWJ2bm5pb2V1dThAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%234285F4&amp;color=%23F09300&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showCalendars=0&amp;showTz=1&amp;title=Club%20Events&amp;showTabs=0&amp;mode=AGENDA"
-                    style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+                    style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no" title="Embedded calendar, see calendar link for full calendar"></iframe>
             </div>
         </div>
     </div>
