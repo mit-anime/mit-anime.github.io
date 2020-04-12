@@ -2,7 +2,7 @@
 This repository hosts the MIT Anime Club's club website, hosted at anime.mit.edu. The club website is a static site generated using Jekyll and is served using GitHub Pages.
 
 # Making changes to the site
-To make changes to this site, it is recommended you first check that your change works locally. Once you have verified that your change works locally, you can push your change to the master branch on GitHub. Your changes will be deployed to anime.mit.edu.
+To make changes to this site, it is recommended you first check that your change works locally. Once you have verified that your change works locally, you can push your change to the master branch on GitHub. Your changes will be deployed to anime.mit.edu. You can check https://github.com/mit-anime/mit-anime.github.io/deployments for the status of the deployment.
 
 ## How to verify changes locally
 1. [Install ruby](https://www.ruby-lang.org/en/documentation/installation/#homebrew). If you are on MacOS, twang6 recommends installing via Homebrew. Ruby is what Jekyll is written in.
