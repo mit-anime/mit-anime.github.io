@@ -4,15 +4,16 @@ title: Resources
 ---
 
 ## General Anime Resources
-[Introducing Anime](#intro) | [Anime Encyclopedias and
-Resources](#encyc)  
-[Anime Cultural Resources](#culture) | [Aids for Learning
-Japanese](#jpn)  
-  
+[Introducing Anime](#intro) | [Anime Encyclopedias and Resources](#encyc)
+<br/>
+[Anime Cultural Resources](#culture) | [Aids for Learning Japanese](#jpn)
+{: style="text-align: center;"}
+
 ## MIT and Local Resources
-[MIT and Anime](#mit) | [MIT Anime-Related Organizations](#mitorg)  
-[Local Anime-Related Organizations](#bostonorg) | [Local Anime and Manga
-Stores](#stores)
+[MIT and Anime](#mit) | [MIT Anime-Related Organizations](#mitorg)
+<br/>
+[Local Anime-Related Organizations](#bostonorg) | [Local Anime and Manga Stores](#stores)
+{: style="text-align: center;"}
 
 ### Introducing Anime {#intro}
 
