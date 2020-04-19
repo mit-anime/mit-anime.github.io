@@ -3,10 +3,28 @@ layout: page
 title: History
 ---
 ## Past Showings
-### Fall 1990 - Spring 2019
+### Fall 1990 - IAP 2019
 This file is in reverse-chronological order (by semester or season),
 which allows us to easily use a browser's "find'' command to figure out
 how long it's been since we last showed something.
+
+-----
+## IAP 2019
+#### IAP Series: Complete series marathons each week.
+
+**Friday, 10 January 2020 &nbsp; <font color="red">First IAP Marathon</font>**
+  - Ascendance of a Bookworm 1-14 (complete)
+
+**Friday, 17 January 2020 &nbsp; <font color="red">Second IAP Marathon</font>**
+  - The Garden of Sinners 1-4
+
+**Friday, 24 January 2020 &nbsp; <font color="red">Third IAP Marathon</font>**
+  - Mirai no Mirai (Movie)
+
+**Friday, 31 January 2020 &nbsp; <font color="red">Fourth IAP Marathon</font>**
+  - Aoharu x Machinegun 1-12 (complete)
+
+
 
 -----
 ## Fall 2019
@@ -50,9 +68,40 @@ how long it's been since we last showed something.
   - Zombieland Saga 1-2
   - Devilman Crybaby 1-2
 
+**Friday, 1 November 2019**
+  - Engaged to the Unidentified 1-3
+  - Demon Slayer 1-3
 
+**Friday, 8 November 2019**
+  - Maid Dragon 1-3
+  - Demon Slayer 4-6
 
+**Friday, 15 November 2019**
+  - ReLIFE 1-3
+  - Demon Slayer 7-9
 
+**Friday, 22 November 2019**  
+  - How to Keep a Mummy 1-3
+  - Demon Slayer 10-12
+
+**Friday, 6 December 2019**  
+  - Naruto Episode 48 and 192
+  - Naruto: Shippūden Episode 281
+  - Demon Slayer 13-15
+
+**Friday, 13 May 2019 &nbsp; <font color="red">Brain Reset!</font>**
+  - Cooking Ninjas Episode 1
+  - Bobobo-bo Bo-bobo (dub)
+  - FMA 4-koma (1-8)
+  - Neo Yokio (ep 5)
+  - Shirotabi episode of Ghost Stories (dub) (ep. 9)
+  - Train anime x Evangelion crossover
+  - Marvel Disk Wars: The Avengers (ep 1)
+  - Endless 8
+  - FLCL (ep 1)
+  - Inferno Cop (ep 1 - 4)
+  - Pop Team Epic (ep 4)
+  - Xavier Renegade Angel
 
 
 
