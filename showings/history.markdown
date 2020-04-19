@@ -9,6 +9,54 @@ which allows us to easily use a browser's "find'' command to figure out
 how long it's been since we last showed something.
 
 -----
+## Fall 2019
+#### Fall Series: **Violet Evergarden, Demon Slayer**
+
+**Friday, 6 September 2019 &nbsp; <font color="red">Fall Party</font>**
+  - Violet Evergarden 1
+  - Full Metal Panic 1
+  - Nichijou 1
+  - K-On 1
+
+**Friday, 13 September 2019**
+  - Fire Force 1-3
+  - Violet Evergarden 1-3
+
+**Friday, 20 September 2019**
+  - Gabriel Dropout 1-3
+  - Violet Evergarden 4-6
+
+**Friday, 27 September 2019**
+  - Monster 1-3
+  - Violet Evergarden 7-10
+
+**Friday, 4 October 2019**
+  - Promised Neverland 1-3
+  - Violet Evergarden 11-12
+
+**Friday, 11 October 2019**
+  - Berserk 1-3
+  - Violet Evergarden 13-14 (concludes)
+
+**Friday, 18 October 2019 &nbsp; <font color="red">Winter Party</font>**
+  - Demon Slayer 1
+  - Anohana: The Flower we saw that Day 1
+  - Yamada-kun and the Seven Witches 1
+  - Lucky Star 1
+
+**Friday, 25 October 2019 &nbsp; <font color="red">Halloween Party</font>**
+  - Castlevania 1-2
+  - Boogiepop Doesn't Laugh 1-2
+  - Zombieland Saga 1-2
+  - Devilman Crybaby 1-2
+
+
+
+
+
+
+
+-----
 ## Spring 2019
 #### Spring Series: **Princess Tutu**
 
