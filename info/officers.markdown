@@ -3,16 +3,11 @@ layout: centered-page
 title: Officers
 ---
 
-Past Officers
+Current and Past Officers, 1992 -- Present
 -------------
-
-[1993-1994](#93) | [1994-1995](#94) | [1995-1996](#95) | [1996-1997](#96) | [1997-1998](#97) | [1998-1999](#98)
-[1999-2000](#99) | [2000-2001](#00) | [2001-2002](#01) | [2002-2003](#02) | [2003-2004](#03) | [2004-2005](#04)
-[2005-2006](#05) | [2006-2007](#06) | [2007-2008](#07) | [2008-2009](#08) | [2009-2010](#09) | [2010-2011](#10)
-[2011-2012](#11) | [2012-2013](#12) | [2013-2014](#13) | [2014-2015](#14) | [2015-2016](#15) | [2016-2017](#16)
-[2017-2018](#17) | [2018-2019](#18) | [2019-2020 (current)](#19)
-Please send external e-mail to anime-inquiry@mit.edu. Only contact officers directly if you need to contact a specific officer.
-#### To protect against spam only the usernames of our officers are listed. Add "@mit.edu" to the username to get the e-mail address.
+<p align="left">
+Please send external e-mail to anime-inquiry@mit.edu. Only contact officers directly if you need to contact a specific officer. To protect against spam, only the kerberos usernames of our officers are listed. Add "@mit.edu" to the username to get the e-mail address.
+</p>
 
 ### Fall 2019 -- Spring 2020
 
