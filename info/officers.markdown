@@ -9,6 +9,14 @@ Current and Past Officers, 1992 -- Present
 Please send external e-mail to anime-inquiry@mit.edu. Only contact officers directly if you need to contact a specific officer. To protect against spam, only the kerberos usernames of our officers are listed. Add "@mit.edu" to the username to get the e-mail address.
 </p>
 
+### Interim Officers<sup>*</sup>, May 2020 -- Present
+#### *Instated to handle club affairs while students are unable to return to campus due to the COVID-19 pandemic.
+
+| Position         | Name            | Username |
+|------------------|-----------------|----------|
+| President        | Rachel Anderson | rachelan |
+| Treasurer        | Mahmoud Sobier  | msobier  |
+
 ### Fall 2019 -- Spring 2020
 
 | Position         | Name            | Username |
