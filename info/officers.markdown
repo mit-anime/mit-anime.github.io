@@ -46,7 +46,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Position       | Name              | Username |
 |----------------|-------------------|----------|
 | President      | Brianna Igbinosun | brigbi   |
-| Vice President | Istvan Chung      | ikdc     |
+| Vice President | Lily Chung        | ikdc     |
 | Treasurer      | Jason Lam         | jasonlam |
 | Secretary      | Jessica Liu       | jvliu    |
 | Librarian      | Raudel Hernandez  | raudelh  |
@@ -55,7 +55,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 
 | Position       | Name             | Username |
 |----------------|------------------|----------|
-| President      | Istvan Chung     | ikdc     |
+| President      | Lily Chung       | ikdc     |
 | Vice President | Lucy Yang        | lucyyang |
 | Treasurer      | Samuel Duchovni  | dukhovni |
 | Librarian      | James Tsao       | jtsao    |
@@ -74,7 +74,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Librarian       | DeJuan Anderson  | dejuan   |
 | Librarian       | Willie Chen      | wpc      |
 | Librarian       | Raudel Hernandez | raudelh  |
-| Publicity Chair | Istvan Chung     | ikdc     |
+| Publicity Chair | Lily Chung       | ikdc     |
 
 ### Fall 2014 -- Spring 2015
 
