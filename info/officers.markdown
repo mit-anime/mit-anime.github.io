@@ -9,7 +9,29 @@ Current and Past Officers, 1992 -- Present
 Please send external e-mail to anime-inquiry@mit.edu. Only contact officers directly if you need to contact a specific officer. To protect against spam, only the kerberos usernames of our officers are listed. Add "@mit.edu" to the username to get the e-mail address.
 </p>
 
-### Interim Officers<sup>*</sup>, May 2020 -- Present
+### Fall 2022 -- Present
+
+| Position         | Name            | Username |
+|------------------|-----------------|----------|
+| President        | Rabab Alrufayi  | alrufayi |
+| Treasurer        | Madison Wang    | mtwang   |
+| Secretary        | Caroline Chea   | cchea    |
+| Library Chair    | Madison Wang    | mtwang   |
+| Webmaster        | Andrea Leang    | akleang  |
+| Public Relations | Rabab Alrufayi  | alrufayi |
+
+### Fall 2021 -- Spring 2022
+
+| Position         | Name            | Username |
+|------------------|-----------------|----------|
+| President        | Rachel Anderson | rachelan |
+| Treasurer        | Morgan Guempel  | mguempel |
+| Secretary        | Madison Wang    | mtwang   |
+| Library Chair    | Jerry ?????     |    ?     |
+| Webmaster        | Mahmoud Sobier  | msobier  |
+| Public Relations | Rabab Alrufayi  | alrufayi |
+
+### Interim Officers<sup>*</sup>, May 2020 -- Spring 2020
 #### *Instated to handle club affairs while students are unable to return to campus due to the COVID-19 pandemic.
 
 | Position         | Name            | Username |
