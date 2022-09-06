@@ -3,10 +3,92 @@ layout: page
 title: History
 ---
 ## Past Showings
-### Fall 1990 - IAP 2020
+### Fall 1990 - Fall 2021
 This file is in reverse-chronological order (by semester or season),
 which allows us to easily use a browser's "find'' command to figure out
 how long it's been since we last showed something.
+
+-----
+## Fall 2021
+#### Fall Series: **ODDTAXI**, **Asobi Asobase**
+
+**Friday, 10 September 2021**
+  - Grand Blue 1
+  - ODDTAXI 1
+  - Tatami Galaxy 1
+  - My Next Life as a Villainess: All Routes Lead to Doom! 1
+ 
+**Friday, 17 September 2021**
+  - Kaiji: Ultimate Survivor 1-3
+  - ODDTAXI 1-3
+ 
+**Friday, 24 September 2021**
+  - Vivy -Fluorite Eye’s Song 1-3
+  - ODDTAXI 4-6
+ 
+**Saturday, 25 September 2021 &nbsp; <font color="red">Anime Karaoke</font>**
+
+**Friday, 1 October 2021**
+  - Moriarty the Patriot 1-3
+  - ODDTAXI 7-9
+
+**Friday, 8 October 2021 &nbsp; <font color="red">Elections</font>**
+  - Black Butler 1-3
+  - ODDTAXI 10-12
+
+**Friday, 15 October 2021 &nbsp; <font color="red">Fall Party</font>**
+  - ODDTAXI 13
+  - Asobi Asobase 1
+  - Horimiya 1
+  - Dorohedoro 1
+  - Magical Girl Ore 1
+
+**Friday, 22 October 2021**
+  - Code Geass 1-3
+  - Asobi Asobase 1-3
+
+**Friday, 29 October 2021 &nbsp; <font color="red">Fall Party</font>**
+  - Danganronpa 1
+  - Mononoke 1
+  - Hellsing Ultimate 1
+
+**Friday, 5 November 2021**
+  - Yona of The Dawn 1-3
+  - Asobi Asobase 4-6
+
+**Friday, 12 November 2021**
+  - Snow White with Red Hair 1-3
+  - Asobi Asobase 7-9
+
+**Friday, 19 November 2021**
+  - Yuri on Ice 1-3
+  - Asobi Asobase 10-12
+
+**Saturday, 13 November 2021 &nbsp; <font color="red">Movie</font>**
+  - Persona 3 Movie #1: Birth of Spring
+
+**Friday, 19 November 2021**
+  - Yuri on Ice 1-3
+  - Asobi Asobase 10-12
+
+**Saturday, 20 November 2021 &nbsp; <font color="red">Karaoke w/DAAMIT</font>**
+
+**Friday, 3 December 2021**
+  - Free! 1-3
+  - Orange 1-3
+
+**Friday, 10 December 2021 &nbsp; <font color="red">Brain Freeze</font>**
+  - Hetalia 1
+  - Makura No Danshi 1
+  - Nyan Neko Sugar Girls 1
+  - Midori Days 1
+  - Ex-Arm 1
+  - Ghost Stories (dub) 1
+  - Naruto (dub) 2
+  - Dragon Ball Z Abridged 1-2
+  - Hellsing Abridged 1
+
+
 
 -----
 ## Spring 2021
@@ -18,17 +100,18 @@ how long it's been since we last showed something.
 **Friday, 5 March 2021**
   - Mushishi 1-6
 
+**Friday, 12 March 2021 &nbsp; <font color="red">Anime Music Quiz</font>**
+
 **Friday, 19 March 2021**
   - The Great Pretender 1-6
 
-**Friday, 9 April 2021**
+**Friday, 2 April 2021**
   - Haruhi 1-6
+
+**Friday, 9 April 2021 &nbsp; <font color="red">Snooty Anime Discussion Hours</font>**
 
 **Friday, 16 April 2021**
   - Vision of Escaflowne 1-6
-
-**Friday, 23 April 2021**
-  - Fruits Basket 1-6
 
 **Friday, 7 May 2021 &nbsp; <font color="red">Brain Reset</font>**
   - Cells at Work Code Black Ep 3 
@@ -61,23 +144,35 @@ how long it's been since we last showed something.
 ## Fall 2020
 #### Fall Series: None
 
-**Friday, 11 September 2020 **
+**Friday, 4 September 2020 &nbsp; <font color="red">Fall Party</font>**
   - Cells at Work! 1-3
 
-**Friday, 25 September 2020 **
+**Friday, 11 September 2020 &nbsp; <font color="red">Karaoke</font>**
+
+**Friday, 18 September 2020 **
   - Durarara!! 1-3
+
+**Friday, 25 September 2020 &nbsp; <font color="red">Snooty Anime Discussion Hours</font>**
 
 **Friday, 2 October 2020 **
   - Kabaneri of the Iron Fortress 1-3
 
-**Friday, 16 October 2020 **
+**Saturday, 3 October 2020 &nbsp; <font color="red">Anime Music Quiz</font>**
+
+**Friday, 9 October 2020 **
   - Death Parade 1-3
+
+**Friday, 16 October 2020 &nbsp; <font color="red">Jackbox</font>**
 
 **Friday, 23 October 2020 **
   - Another 1-3
 
+**Friday, 6 November 2020 &nbsp; <font color="red">Snooty Anime Discussion Hours</font>**
+
 **Friday, 13 November 2020 **
   - Silver Spoon 1-3
+
+**Friday, 20 November 2020 &nbsp; <font color="red">OSU!</font>**
 
 **Friday, 4 December 2020 &nbsp; <font color="red">Brain Reset</font>**
   - Isekai Quartet
