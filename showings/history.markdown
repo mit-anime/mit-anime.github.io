@@ -3,10 +3,58 @@ layout: page
 title: History
 ---
 ## Past Showings
-### Fall 1990 - Fall 2021
+### Fall 1990 - Spring 2022
 This file is in reverse-chronological order (by semester or season),
 which allows us to easily use a browser's "find'' command to figure out
 how long it's been since we last showed something.
+
+-----
+## Spring 2022
+#### Spring series: **Sarazanmai**, **Sk8 the Infinite**
+
+**Friday, 4 February 2022 &nbsp; <font color="red">Winter Party</font>**
+  - Sarazanmai 1
+  - Otherside Picnic 1
+  - Link Click 1
+  - As Miss Beelzebub Likes It 1
+
+Friday, 11 February 2022
+  - Ranking of kings 1-3
+  - Sarazanmai 1-3
+
+**Friday, 18 February 2022**
+  - Vanitas 1-3
+  - Sarazanmai 4-6
+
+**Friday, 4 March 2022**
+  - Overlord 1-3 
+  - Sk8 the Infinite 1-3
+
+**Saturday, 5 March 2022 &nbsp; <font color="red">Anime Karaoke</font>**
+
+**Friday, March 11 2022**
+  - Hyouka 1-3
+  - Sarazanmai 10-11 
+
+**Friday, March 18 2022 &nbsp; <font color="red">Winter Party</font>**
+  - Heike Story 1
+  - SSSS Gridman 1
+  - Made in Abyss 1
+  - Sk8 the infinite 1
+
+**Friday, April 1 2022 &nbsp; <font color="red">Elections</font>**
+  - Teasing Master Takagi-San 1-3
+  - Sk8 the infinite 1-3
+
+**Friday, April 8 2022**
+  - Michiko & Hatchin 1-3
+  - Sk8 the infinity 4-6
+
+-----
+## IAP 2022
+#### IAP Series: None
+
+
 
 -----
 ## Fall 2021
@@ -149,27 +197,27 @@ how long it's been since we last showed something.
 
 **Friday, 11 September 2020 &nbsp; <font color="red">Karaoke</font>**
 
-**Friday, 18 September 2020 **
+**Friday, 18 September 2020**
   - Durarara!! 1-3
 
 **Friday, 25 September 2020 &nbsp; <font color="red">Snooty Anime Discussion Hours</font>**
 
-**Friday, 2 October 2020 **
+**Friday, 2 October 2020**
   - Kabaneri of the Iron Fortress 1-3
 
 **Saturday, 3 October 2020 &nbsp; <font color="red">Anime Music Quiz</font>**
 
-**Friday, 9 October 2020 **
+**Friday, 9 October 2020**
   - Death Parade 1-3
 
 **Friday, 16 October 2020 &nbsp; <font color="red">Jackbox</font>**
 
-**Friday, 23 October 2020 **
+**Friday, 23 October 2020**
   - Another 1-3
 
 **Friday, 6 November 2020 &nbsp; <font color="red">Snooty Anime Discussion Hours</font>**
 
-**Friday, 13 November 2020 **
+**Friday, 13 November 2020**
   - Silver Spoon 1-3
 
 **Friday, 20 November 2020 &nbsp; <font color="red">OSU!</font>**
