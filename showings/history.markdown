@@ -9,6 +9,120 @@ which allows us to easily use a browser's "find'' command to figure out
 how long it's been since we last showed something.
 
 -----
+## Spring 2021
+#### Spring Series: None due to COVID-19 Pandemic
+
+**Friday, 19 February 2021**
+  - Wonder Egg Priority 1-6
+
+**Friday, 5 March 2021**
+  - Mushishi 1-6
+
+**Friday, 19 March 2021**
+  - The Great Pretender 1-6
+
+**Friday, 9 April 2021**
+  - Haruhi 1-6
+
+**Friday, 16 April 2021**
+  - Vision of Escaflowne 1-6
+
+**Friday, 23 April 2021**
+  - Fruits Basket 1-6
+
+**Friday, 7 May 2021 &nbsp; <font color="red">Brain Reset</font>**
+  - Cells at Work Code Black Ep 3 
+  - Cromartie High School
+  - Samurai Pizza Cats
+  - Sonic X dub S3 Ep 1
+  - Sekko Boys
+  - The Way of the House Husband
+
+
+
+-----
+## IAP 2021
+#### IAP Series: Complete series marathons each week.
+
+**Friday, 8 January 2021 &nbsp; <font color="red">First IAP Marathon</font>**
+  - Dragon Ball: The Path to Power (Movie)
+
+**Friday, 15 January 2020 &nbsp; <font color="red">Second IAP Marathon</font>**
+  - Level E 1-13 (complete)
+
+**Friday, 22 January 2020 &nbsp; <font color="red">Third IAP Marathon</font>**
+  - Tonikawa 1-13 (complete)
+
+**Friday, 29 January 2020 &nbsp; <font color="red">Fourth IAP Marathon</font>**
+  - Pop Team Epic 1-14 (complete)
+
+
+-----
+## Fall 2020
+#### Fall Series: None
+
+**Friday, 11 September 2020 **
+  - Cells at Work! 1-3
+
+**Friday, 25 September 2020 **
+  - Durarara!! 1-3
+
+**Friday, 2 October 2020 **
+  - Kabaneri of the Iron Fortress 1-3
+
+**Friday, 16 October 2020 **
+  - Death Parade 1-3
+
+**Friday, 23 October 2020 **
+  - Another 1-3
+
+**Friday, 13 November 2020 **
+  - Silver Spoon 1-3
+
+**Friday, 4 December 2020 &nbsp; <font color="red">Brain Reset</font>**
+  - Isekai Quartet
+  - SAO abridged: Osomatsu-san
+  - Teekyuu 1-2
+  - I Can’t Understand What My Husband Is Saying 1-4
+  - Hetalia 1-5
+  - Akikan
+  - Cute High Earth Defense Club Love! Love! Ep 4
+  - SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist
+  - Rock Lee & His Ninja Pals Ep 38
+
+
+
+-----
+## Spring 2020
+#### Spring Series: **Kaguya-sama: Love is War**
+
+**Friday, 7 February 2020**
+  - Haibane Renmei 1
+  - Bunny Girl Senpai 1
+  - Yuru Yuri 1
+  - Kaguya-sama: Love is War 1
+
+**Friday, 14 February 2020**
+  - Science Fell in Love, So I Tried to Prove It 1-3
+  - Kaguya-sama: Love is War 1-3
+
+**Friday, 21 February 2020**
+  - Somali and the Forest Spirit 1-3
+  - Kaguya-sama: Love is War 4-6
+
+**Friday, 28 February 2020**
+  - Re:Creators 1-3
+  - Kaguya-sama: Love is War 7-9
+
+**Friday, 6 March 2020**
+  - Dr.Stone 1-3
+  - Kaguya-sama: Love is War 10-12
+
+**All student organization events taking place after 5:00PM on Friday, March 13th will be canceled. 
+This is applicable for on and off campus events**
+
+
+-----
 ## IAP 2020
 #### IAP Series: Complete series marathons each week.
 
