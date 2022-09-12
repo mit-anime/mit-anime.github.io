@@ -19,7 +19,7 @@ how long it's been since we last showed something.
   - As Miss Beelzebub Likes It 1
 
 Friday, 11 February 2022
-  - Ranking of kings 1-3
+  - Ranking of Kings 1-3
   - Sarazanmai 1-3
 
 **Friday, 18 February 2022**
@@ -40,7 +40,7 @@ Friday, 11 February 2022
   - Heike Story 1
   - SSSS Gridman 1
   - Made in Abyss 1
-  - Sk8 the infinite 1
+  - Sk8 the Infinite 1
 
 **Friday, April 1 2022 &nbsp; <font color="red">Elections</font>**
   - Teasing Master Takagi-San 1-3
@@ -48,7 +48,7 @@ Friday, 11 February 2022
 
 **Friday, April 8 2022**
   - Michiko & Hatchin 1-3
-  - Sk8 the infinity 4-6
+  - Sk8 the Infinite 4-6
 
 -----
 ## IAP 2022
