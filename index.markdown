@@ -18,7 +18,7 @@ title: MIT Anime Club
                 </p>
                 <p>
                     We also have a new
-                    <a href="https://discord.gg/EhMXT7w">Discord server</a>.
+                    <a href="https://discord.gg/85bRBZbsWD">Discord server</a>.
                     Join us!
                 </p>
             </div>
