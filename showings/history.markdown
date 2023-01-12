@@ -3,10 +3,79 @@ layout: page
 title: History
 ---
 ## Past Showings
-### Fall 1990 - Spring 2022
+### Fall 1990 - Fall 2023
 This file is in reverse-chronological order (by semester or season),
 which allows us to easily use a browser's "find'' command to figure out
 how long it's been since we last showed something.
+
+-----
+## Fall 2022
+#### Fall Series:  Devil is a Part-timer, Madoka Magica, Golden Kamuy
+
+**Friday, 9 September 2022 &nbsp; <font color="red">Fall Party</font>**
+  - Nichijou 1
+  - Ouran Host Club 1
+  - Devil is a Part-timer 1-3
+  - Flying Witch 1
+
+**Friday, 16 September 2022**	
+  - K-On 1-3
+  - Devil is a Part-timer 1-3
+
+**Friday, 23 September 2022**	
+  - Tamako Market 1-3
+  - Devil is a Part-timer 4-6
+
+**Friday, 30 September 2022**	
+  - Miss Kobayashi's Dragon Maid 1-3
+  - Devil is a Part-timer 7-9
+
+**Friday, 7 October 2022**	
+  - Devil is a Part-timer 10-12
+  - Mieruko-chan 1
+  - Hell Girl (Jigoku Shoujo) 1
+  - Madoka Magica 1
+  - Deadman Wonderland 1
+
+**Friday, 14 October 2022**	
+  - Dororo 1-3
+  - Madoka Magica 1-3
+
+**Saturday, 15 October 2022	&nbsp; <font color="red">Karaoke Party</font>**
+
+**Friday, 21 October 2022**	
+   - Serial Experiment Lain 1-3
+   - Madoka Magica 4-6
+
+**Friday, 28 October 2022	&nbsp; <font color="red">Halloween Party</font>**
+  - High Rise Invasion 1-3
+  - Madoka Magica 7-9
+
+**Friday, 4 November 2022**	
+  - Madoka Magica 10-12
+  - Katanagatari 1
+  - Baccano! 1
+  - Golden Kamuy 1
+  - Emma: A Victorian Romance 1
+
+**Friday, 11 November 2022**
+  - Last Exile 1-3
+  - Golden Kamuy 1-3
+
+**Friday, 18 November 2022**	
+  - Basilisk 1-3
+  - Golden Kamuy 4-6
+
+**Saturday, 19 November 2022 &nbsp; <font color="red">Movie Night</font>**
+
+**Friday, 25 November 2022**
+  - Arslan Senki (The Heroic Legend of Arslan) 1-3
+  - Golden Kamuy 7-9
+
+**Friday, 9 December 2022 &nbsp; <font color="red">Anime Brain Reset</font>**
+  - Golden Kamuy 10-13
+  - Hetalia World Stars 
+
 
 -----
 ## Spring 2022
@@ -18,7 +87,7 @@ how long it's been since we last showed something.
   - Link Click 1
   - As Miss Beelzebub Likes It 1
 
-Friday, 11 February 2022
+**Friday, 11 February 2022**
   - Ranking of Kings 1-3
   - Sarazanmai 1-3
 
@@ -44,11 +113,21 @@ Friday, 11 February 2022
 
 **Friday, April 1 2022 &nbsp; <font color="red">Elections</font>**
   - Teasing Master Takagi-San 1-3
-  - Sk8 the infinite 1-3
+  - Sk8 the Infinity 1-3
 
 **Friday, April 8 2022**
   - Michiko & Hatchin 1-3
-  - Sk8 the Infinite 4-6
+  - Sk8 the Infinity 4-6
+ 
+**Friday, April 15 2022**
+  - Houseki no Kuni (Land of the Lustrous) 1-3
+  - Sk8 the Infinity 7-9
+
+**Friday, April 22 2022**
+  - Sonny Boy 1-3
+  - Sk8 the Infinity 10-12
+
+
 
 -----
 ## IAP 2022
