@@ -65,24 +65,21 @@ title: Resources
         <a href="http://www.tokyokid.com/">Tokyo Kid</a>
       </td>
       <td>In Harvard Square Garage, second floor in the back.</td>
-      <td>A general anime store, with both import and domestic merchandise. They also sell anime DVDs and have a decent selection of rentals.<br/>
-<strong>Special! Card-carrying MIT Anime members get 10% off! (Excludes rentals, games, video and DVD purchases.)</strong></td>
+      <td>A general anime store, with both import and domestic merchandise. They also sell anime DVDs and have a decent selection of rentals.</td>
     </tr>
     <tr class="even">
       <td>
         <a href="http://themillionyearpicnic.com/">Million Year Picnic</a>
       </td>
       <td>In a Harvard Square basement across and next to Wordsworth Books.</td>
-      <td>One of the country's best comic book stores, with a constantly improving selection of translated manga, plus a lot of anime art books.<br/>
-<strong>Special! Card-carrying MIT Anime members get 10% off!</strong></td>
+      <td>One of the country's best comic book stores, with a constantly improving selection of translated manga, plus a lot of anime art books.</td>
     </tr>
     <tr class="odd">
       <td>
         <a href="http://www.comicopia.com/">Comicopia</a>
       </td>
       <td>In Kenmore Square, on the south side of Comm. Ave, near the overpass.</td>
-      <td>An excellent comic book store in Kenmore Square.<br/>
-<strong>Special! Card-carrying MIT Anime members get 10% off!</strong></td>
+      <td>An excellent comic book store in Kenmore Square.</td>
     </tr>
     <tr class="even">
       <td>
@@ -108,8 +105,7 @@ title: Resources
         <a href="http://www.sasugabooks.com/">Sasuga Japanese Bookstore</a>
       </td>
       <td>(no location)</td>
-      <td>Online bookstore which carries manga, books and magazines. They also sell products in the dealers' room at AnimeBoston.<br/>
-<strong>Special! Card-carrying MIT Anime members get 10% off! (Excludes magazine subscriptions.)</strong></td>
+      <td>Online bookstore which carries manga, books and magazines. They also sell products in the dealers' room at AnimeBoston.</td>
     </tr>
   </tbody>
 </table>
