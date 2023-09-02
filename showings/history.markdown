@@ -3,14 +3,78 @@ layout: page
 title: History
 ---
 ## Past Showings
-### Fall 1990 - Fall 2023
+### Fall 1990 - Spring 2023
 This file is in reverse-chronological order (by semester or season),
 which allows us to easily use a browser's "find'' command to figure out
 how long it's been since we last showed something.
 
 -----
+## Spring 2023
+#### Spring series: **Ore Monogatari (My Love Story!!)**, **Megala Box**, **Ya Boy Kongming**
+
+**Friday, 10 February 2023 &nbsp; <font color="red">Winter Party</font>**
+  - Ore Monogatari (My Love Story!!) 1-3
+  - Chuunibyou demo Koi ga Shitai! (Love, Chunibyo & Other Delusions!) 1
+  - Bloom into You 1
+  - Love Stage!! 1
+
+**Friday, 17 February 2023**	
+  - Wotakoi: Love Is Hard for Otaku 1-3
+  - Ore Monogatari (My Love Story!!) 4-6
+
+**Friday, 24 February 2023**	
+  - Kokoro Connect 1-3
+  - Ore Monogatari (My Love Story!!) 7-9
+
+**Friday, 3 March 2023**	
+  - Golden Time 1-3
+  - Ore Monogatari (My Love Story!!) 10-12
+
+**Friday, 10 March 2023 &nbsp; <font color="red">Winter Party</font>**
+  - Anime Music Quiz
+  - Megalo Box 1
+  - Ping Pong 1
+  - PuraOre! Pride Of Orange 1
+
+**Saturday, 11 March 2023 &nbsp; <font color="red">Karaoke</font>**
+
+**Friday, 17 March 2023**	
+  - Slam Dunk 1-3
+  - Megalo Box 1-3
+
+**Friday, 24 March 2023**	
+  - Eyeshield 21 1-3
+  - Megalo Box 4-6
+
+**Saturday, 25 March 2023 &nbsp; <font color="red">Movie Night</font>**
+  - Steamboy
+
+**Friday, 7 April 2023**	
+  - Megalo Box 7-9
+  - Ya Boy Kongming 1-3
+  - Buddy Daddies 1
+  - Assassination Classroom 1
+
+**Friday, 21 April 2023 &nbsp; <font color="red">Elections</font>**
+  - Megalo Box 10-13
+  - Ya Boy Kongming 2-3
+
+**Friday, 28 April 2023**	
+  - Saiki K 1-3
+  - Ya Boy Kongming 4-6
+
+**Friday, 5 May 2023**	
+  - The Vampire Dies in No Time 1-3
+  - Ya Boy Kongming 7-9
+
+**Friday, 12 May 2023**	
+  - Haven't You Heard I'm Sakamoto 1-3
+  - Ya Boy Kongming 10-12
+
+
+-----
 ## Fall 2022
-#### Fall Series:  Devil is a Part-timer, Madoka Magica, Golden Kamuy
+#### Fall Series:  **Devil is a Part-timer**, **Madoka Magica**, **Golden Kamuy**
 
 **Friday, 9 September 2022 &nbsp; <font color="red">Fall Party</font>**
   - Nichijou 1
