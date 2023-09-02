@@ -9,7 +9,19 @@ Current and Past Officers, 1992 -- Present
 Please send external e-mail to anime-inquiry@mit.edu. Only contact officers directly if you need to contact a specific officer. To protect against spam, only the kerberos usernames of our officers are listed. Add "@mit.edu" to the username to get the e-mail address.
 </p>
 
-### Fall 2022 -- Present
+### Fall 2023 -- Present
+
+| Position         | Name                      | Username |
+|------------------|---------------------------|----------|
+| President        | Rabab Alrufayi            | alrufayi |
+| Treasurer        | Caroline Chea             | cchea    |
+| Secretary        | Andrea Leang              | akleang  |
+| Library Chair    | Madison Wang              | mtwang   |
+| Webmaster        | Andrea Leang              | akleang  |
+| Public Relations | Daniel A Santiago Alvarez | dsantiag |
+| Aquisitions      | Stephen Wilson            | swilson  |
+
+### Fall 2022 -- Spring 2023
 
 | Position         | Name            | Username |
 |------------------|-----------------|----------|
