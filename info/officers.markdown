@@ -43,7 +43,7 @@ Please send external e-mail to anime-inquiry@mit.edu. Only contact officers dire
 | Webmaster        | Mahmoud Sobier  | msobier  |
 | Public Relations | Rabab Alrufayi  | alrufayi |
 
-### Interim Officers<sup>*</sup>, May 2020 -- Spring 2020
+### Interim Officers<sup>*</sup>, May 2020 -- Spring 2021
 #### *Instated to handle club affairs while students are unable to return to campus due to the COVID-19 pandemic.
 
 | Position         | Name            | Username |
