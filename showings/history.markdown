@@ -8,6 +8,89 @@ This file is in reverse-chronological order (by semester or season),
 which allows us to easily use a browser's "find'' command to figure out
 how long it's been since we last showed something.
 
+
+
+-----
+## IAP 2024
+#### IAP Series: None
+
+
+
+-----
+## Fall 2023
+#### Fall Series:  **Mashle Magic & Muscle**, **Psycho-pass**, **Blue Period**
+
+**Friday, 8 September 2023 &nbsp; <font color="red">Fall Party</font>**
+  - Love is War 1
+  - Ranma ½ 1
+  - Great Teacher Onizuka 1
+  - Mashle Magic & Muscle 1
+
+**Friday, 15 September 2023**	
+  - Gintama 1-3
+  - Mashle Magic & Muscle 1-3
+
+**Friday, 22 September 2023**	
+  - Lucky Star 1-3
+  - Mashle Magic & Muscle 4-6
+
+**Saturday, 23 September 2023 &nbsp; <font color="red">Movie Night</font>**
+
+**Friday, 29 September 2023**	
+  - Joshikousei no Mudazukai 1-3
+  - Mashle Magic & Muscle 7-9
+
+**Friday, 6 October 2023**	
+  - Mashle Magic & Muscle 10-12
+  - Psycho-pass 1
+  - Steins;Gate 1
+  - Darwin's Game 1
+
+**Sunday, 8 October 2023 &nbsp; <font color="red">Group manga/manhwa field trip to Comicopia</font>**
+
+**Friday, 13 October 2023**	
+  - Gankutsuou 1-3
+  - Psycho-pass 1-3
+
+**Friday, 20 October 2023**	
+   - Monster 1-3
+   - Psycho-pass 4-6
+
+**Friday, 27 October 2023**
+  - Joker Game 1-3
+  - Psycho-pass 7-9
+
+**Saturday, 28 October 2023 &nbsp; <font color="red">Halloween Party</font>**
+
+**Friday, 3 November 2023**	
+  - Mushishi 1-3
+  - Psycho-pass 10-12
+
+**Friday, 10 November 2023**
+  - Blue Period 1
+  - White Album 1
+  - Gangsta 1
+
+**Friday, 17 November 2023**	
+  - Hellsing 1-3
+  - Blue Period 1-3
+
+**Friday, 24 November 2023**
+  - Elfen Lied 1-3
+  - Blue Period 4-6
+
+**Friday, 1 December 2023**
+  - Vinland Saga 1-3
+  - Blue Period 7-9
+
+**Friday, 8 December 2023**
+  - Oshi no Ko 1-3
+  - Blue Period 10-12
+
+**Friday, 15 December 2023 &nbsp; <font color="red">Brain Freeze</font>**
+
+
+
 -----
 ## Spring 2023
 #### Spring series: **Ore Monogatari (My Love Story!!)**, **Megala Box**, **Ya Boy Kongming**
@@ -70,6 +153,13 @@ how long it's been since we last showed something.
 **Friday, 12 May 2023**	
   - Haven't You Heard I'm Sakamoto 1-3
   - Ya Boy Kongming 10-12
+
+
+
+-----
+## IAP 2023
+#### IAP Series: None
+
 
 
 -----
@@ -139,6 +229,7 @@ how long it's been since we last showed something.
 **Friday, 9 December 2022 &nbsp; <font color="red">Anime Brain Reset</font>**
   - Golden Kamuy 10-13
   - Hetalia World Stars 
+
 
 
 -----
