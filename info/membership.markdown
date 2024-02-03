@@ -24,18 +24,4 @@ library, however; for that information, please check out our page on
 [library rules.](../library/rules)
 
 **Discounts**
-
-Club Members receive discounts at select anime stores:
-
--   AniMadness offers a 10% discount for everyone who is a member of an
-    anime club. The store is located in Waltham and online at
-    www.animadness.com.
--   Million Year Picnic, one of the nation's finest comic-book stores,
-    with an extensive selection of manga and independent comics, located
-    in Harvard Square, offers a 10% discount.
--   Comicopia, another excellent comic-book store with an extensive
-    manga selection, located at the east end of Kenmore Square, offers a
-    10% discount.
-
-Present your membership card or information when buying products from
-these stores.
+Currectly MIT Anime Club does not have discount offers with nearby stores.
