@@ -3,7 +3,7 @@ layout: page
 title: History
 ---
 ## Past Showings
-### Fall 1990 - Spring 2023
+### Fall 1990 - IAP 2024
 This file is in reverse-chronological order (by semester or season),
 which allows us to easily use a browser's "find'' command to figure out
 how long it's been since we last showed something.
