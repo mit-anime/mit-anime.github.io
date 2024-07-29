@@ -3,10 +3,86 @@ layout: page
 title: History
 ---
 ## Past Showings
-### Fall 1990 - IAP 2024
+### Fall 1990 - Summer 2024
 This file is in reverse-chronological order (by semester or season),
 which allows us to easily use a browser's "find'' command to figure out
 how long it's been since we last showed something.
+
+
+
+-----
+## Summer 2024
+#### Summer series: **N/A**
+
+**Sunday, 2 June 2024 &nbsp; <font color="red">AMQ</font>**
+
+**Sunday, 23 June 2024 &nbsp; <font color="red">Comicopia Trip</font>**
+
+**Sunday, 13 July 2024 &nbsp; <font color="red">AMQ</font>**
+
+
+
+-----
+## Spring 2024
+#### Spring series: ** Tomo-chan is a Girl**, **Chihayafuru**
+
+**Friday, 9 February 2024 &nbsp; <font color="red">Winter Party</font>**
+  - Tomo-chan is a girl 1
+  - Shikimori’s Not Just a Cutie 1
+  - Our Dating Story: The Experienced You and The Inexperienced Me 1
+
+**Friday, 16 February 2024**	
+  - Solo Leveling 1-3
+  - Tomo-chan is a Girl 1-3 
+
+**Friday, 23 February 2024**	
+  - Scissor Seven 1-3
+  - Tomo-chan is a Girl 4-6 
+
+**Friday, 1 March 2024**	
+  - The Daily Life of the Immortal King 1-3
+  - Tomo-chan is a Girl 7-9
+
+**Friday, 8 March 2024**	
+  - Tomo-chan is a Girl 10-12
+  - Blue Lock 1
+  - Welcome to the Ballroom 1
+  - Chihayafuru 1
+  - Kakegurui 1
+
+**Friday, 15 March 2024**	
+  - March Comes in like a Lion 1-3
+  - Chihayafuru 1-3
+
+**Saturday, 16 March 2024  &nbsp; <font color="red">Karaoke Night</font>**	
+
+**Friday, 22 March 2024  &nbsp; <font color="red">No Showing: Winter Break</font>**	
+
+**Friday, 29-31 March 2024 &nbsp; <font color="red">Anime Boston</font>**
+
+**Friday, 5 April 2024**	
+  - Yowamushi Pedal 1-3
+  - Chihayafuru 4-6
+
+**Friday, 12 April 2024  &nbsp; <font color="red">No Showing: CPW</font>**	
+
+**Friday, 19 April 2024  &nbsp; <font color="red">Elections</font>**	
+  - Baki 1-3
+  - Chihayafuru 8-11
+
+**Friday, 26 April 2024**	
+  - Princess Jellyfish 1-3
+  - Chihayafuru 12-14
+
+**Friday, 4 May 2024**	
+  - Ristorante Paradiso 1-3
+  - Chihayafuru 15-17
+
+**Saturday, 5 May 2024  &nbsp; <font color="red">Karaoke Night</font>**	
+
+**Friday, 11 May 2024  &nbsp; <font color="red">Brain Freeze</font>**	
+  - SAO Abridged
+  - AMQ
 
 
 
