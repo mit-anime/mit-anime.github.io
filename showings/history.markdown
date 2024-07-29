@@ -24,7 +24,7 @@ how long it's been since we last showed something.
 
 -----
 ## Spring 2024
-#### Spring series: ** Tomo-chan is a Girl**, **Chihayafuru**
+#### Spring series: **Tomo-chan is a Girl**, **Chihayafuru**
 
 **Friday, 9 February 2024 &nbsp; <font color="red">Winter Party</font>**
   - Tomo-chan is a girl 1
