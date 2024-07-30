@@ -17,8 +17,7 @@ title: MIT Anime Club
                     in the MIT community.
                 </p>
                 <p>
-                    We also have a new
-                    <a href="https://discord.gg/85bRBZbsWD">Discord server</a>.
+                    We also have a Discord server! Email anime-inquiry@mit.edu with your MIT / school affiliation for the link.
                     Join us!
                 </p>
             </div>
