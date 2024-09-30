@@ -97,7 +97,7 @@ how long it's been since we last showed something.
 #### Fall Series:  **Mashle Magic & Muscle**, **Psycho-pass**, **Blue Period**
 
 **Friday, 8 September 2023 &nbsp; <font color="red">Fall Party</font>**
-  - Love is War 1
+  - Kaguya-sama: Love Is War 1
   - Ranma ½ 1
   - Great Teacher Onizuka 1
   - Mashle Magic & Muscle 1
