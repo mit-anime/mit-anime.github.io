@@ -8,7 +8,7 @@ Library Rules and Office Hours
 
 While we try to showcase the best of anime in our weekly screenings, there's a lot more out there than we can possibly show. Therefore, we also maintain a large collection of anime and manga in our circulating library. Library cardholders gain the additional privilege of checking out items from our library for home viewing; for more information, consult the section below.
 
-We hold weekly office hours in our library in W20-441 (fourth floor of the Student Center). All are invited to come in during these times to browse our extensive collections, and library cardholders may use these hours to borrow materials. In addition, non-members are also free to come in and read our manga and watch our anime during this time.
+We hold weekly office hours in our library in W20-441 (fourth floor of the Student Center). All are invited to come in during these times to browse our extensive collections [cataloged here](https://www.libib.com/u/mitanime), and library cardholders may use these hours to borrow materials. In addition, non-members are also free to come in and read our manga and watch our anime during this time.
 
 Office Hours
 ------------
