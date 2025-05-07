@@ -9,7 +9,19 @@ Current and Past Officers, 1992 -- Present
 Please send external e-mail to anime-inquiry@mit.edu. Only contact officers directly if you need to contact a specific officer. To protect against spam, only the kerberos usernames of our officers are listed. Add "@mit.edu" to the username to get the e-mail address.
 </p>
 
-### Fall 2024 -- Present
+### Fall 2025 -- Present
+
+| Position         | Name                      | Username |
+|------------------|---------------------------|----------|
+| President        | Evan Barkho               | ebarkho  |
+| Treasurer        | Hanzhen Lin               | linhz    |
+| Secretary        | Emily Ha                  | emily5ha |
+| Library Chair    | Daniel Xue                | dlx3ud   |
+| Webmaster        | Emily Ha                  | emily5ha |
+| Public Relations | Taylor Shu                | tjwshu   |
+| Aquisitions      | ???                       | ???      |
+
+### Fall 2024 -- Spring 2025
 
 | Position         | Name                      | Username |
 |------------------|---------------------------|----------|
