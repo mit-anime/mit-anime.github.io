@@ -11,6 +11,148 @@ how long it's been since we last showed something.
 
 
 -----
+## Spring 2025
+## Spring Series: Yubisaki to Renren, 
+
+**Friday, 7 February 2025**
+- Fruits Basket (2019) 1
+- Kamisama Kiss 1
+- Yubisaki to Renren (A Sign of Affection) 1
+- Insomniacs After School 1
+- The World God Only Knows 1-3 
+
+**Friday, 14 February 2025	&nbsp; <font color="red">Valentine's Day</font>**
+- Yubisaki to Renren 1-2 
+- Hatoful boyfriend (dating sim)
+
+**Friday, 21 February 2025**
+- The Dangers in My Heart 1-3 
+- Yubisaki to Renren 3-6
+
+**Friday, 28 February 2025**
+- The Duke of Death and His Maid 1-3
+- Yubisaki to Renren 7-9
+
+**Friday, 7 March 2025**
+- Id: Invaded 1 
+- Apothecary Diaries 1 
+- In/Spectre 1 
+- Promised Neverland 1 
+- Yubisaki to Renren 10-12
+
+**Friday, 14 March 2025**
+- Dating sim (hatoful boyfriend)
+- Durarara! 1-3 
+
+**Friday, 21 March 2025**
+- Bungou Stray Dogs 1-3
+- ID: Invaded 1-3
+
+**Friday, 4 April 2025**
+- ID: Invaded 4-6 
+- Alice in Borderland 1-3 
+
+**Friday, 11 April 2025**
+- Erased 1-3
+- ID: Invaded 7-9
+
+**Friday, 18 April 2025 (CPW)**
+- Apothecary Diaries
+- Fruits Basket (2019)
+- 100 Girlfriends
+- Cells at Work: Code Black
+
+**Friday, 25 April 2025**
+- Summertime Rendering 1-3 
+- ID: Invaded 10-12
+
+**Friday, 2 May 2025 (Elections)**
+- Full Metal Panic 1
+- Someday’s Dreamers 1 
+- Marmalade Boy 1 
+- Lunar Legend Tsukihime 1 
+
+**Friday, 11 May 2025 (Brain Freeze)**
+- Ghost Stories Dub Compilation
+- Gintama
+
+
+
+---
+## IAP 2025
+## IAP Series: Jojo marathon
+
+
+
+-----
+## Fall 2024
+## Fall Series: Banana Fish, Cherry Magic, Grand Blue Dreaming, Spice & Wolf
+
+**Friday, 6 September 2024 &nbsp; <font color="red">Fall Party</font>**
+- Banana Fish 1
+- Aoi Hana 1
+- I’m in Love with the Villainess 1
+- Cherry Magic 1
+
+**Friday, 13 September 2024	<font color="red">Symphonic Anime</font>**
+
+**Friday, 21 September 2024**	
+- Revolutionary Girl Utena 1-2
+- Banana Fish 1-2
+- Cherry Magic 1-2
+
+**Friday, 27 September 2024**
+- Sakura Trick 1-2
+- Banana Fish 3-4
+- Cherry Magic 3-4
+
+**Friday, 4 October 2024**	
+- Grand Blue Dreaming 1
+- KamiKatsu: Working for God in a Godless World 1
+- The 100 Girlfriends Who Really, Really, Really, Really, Really Love You 1
+- KonoSuba 1
+- Cherry Magic 5
+
+**Friday, 11 October 2024**
+- Grand Blue Dreaming 3-5
+- Higurashi 1-3
+
+**Friday, 18 October 2024**
+- Grand Blue Dreaming 6-8
+- Uzumaki 1-3
+
+**Friday, 25 October 2024**
+- Grand Blue Dreaming 1-2
+- Shinsekai Yori (Into the New World) 1-3
+
+**Friday, 1 November 2024** 
+- Cells at Work: Code Black 1
+- Science Fell in Love, So I Tried to Prove It 1
+- Silver Spoon 1 
+- Spice & Wolf (2024) 1
+
+**Friday, 8 November 2024** 
+- Campfire Cooking in Another World with my Insane Skill 1-3
+- Spice & Wolf 1-3
+
+**Friday, 15 November 2024**
+- Yuru Camp 1-3
+- Spice & Wolf 4-6
+
+**Friday, 22 November 2024** 
+- Dungeon Meshi 1-3
+- Spice & Wolf 7-9
+
+**Friday, 29 November 2024	&nbsp; <font color="red">Thanksgiving Break</font>**
+
+**Friday, 6 December 2024**
+- Dr. Stone 1-3
+- Spice & Wolf 10-12
+
+**Friday, 13 December 2024 &nbsp; <font color="red">Brain Freeze</font>**
+
+
+-----
 ## Summer 2024
 #### Summer series: **N/A**
 
