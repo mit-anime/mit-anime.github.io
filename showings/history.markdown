@@ -12,7 +12,7 @@ how long it's been since we last showed something.
 
 -----
 ## Spring 2025
-## Spring Series: Yubisaki to Renren, ID:Invaded
+#### Spring Series: Yubisaki to Renren, ID:Invaded
 
 **Friday, 7 February 2025**
 - Fruits Basket (2019) 1
@@ -80,13 +80,13 @@ how long it's been since we last showed something.
 
 ---
 ## IAP 2025
-## IAP Series: Jojo marathon
+#### IAP Series: Jojo marathon
 
 
 
 -----
 ## Fall 2024
-## Fall Series: Banana Fish, Cherry Magic, Grand Blue Dreaming, Spice & Wolf
+#### Fall Series: Banana Fish, Cherry Magic, Grand Blue Dreaming, Spice & Wolf
 
 **Friday, 6 September 2024 &nbsp; <font color="red">Fall Party</font>**
 - Banana Fish 1
