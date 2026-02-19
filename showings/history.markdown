@@ -40,7 +40,7 @@ how long it's been since we last showed something.
 - Promised Neverland 1 
 - Yubisaki to Renren 10-12
 
-**Friday, 14 March 2025**
+**Friday, 14 March 2025**  &nbsp; <font color="red">White Day</font>**
 - Dating sim (hatoful boyfriend)
 - Durarara! 1-3 
 
@@ -94,7 +94,7 @@ how long it's been since we last showed something.
 - I’m in Love with the Villainess 1
 - Cherry Magic 1
 
-**Friday, 13 September 2024	<font color="red">Symphonic Anime</font>**
+**Friday, 13 September 2024	<font color="red">Trip To Symphonic Anime</font>**
 
 **Friday, 21 September 2024**	
 - Revolutionary Girl Utena 1-2
