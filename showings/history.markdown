@@ -12,7 +12,7 @@ how long it's been since we last showed something.
 
 -----
 ## Spring 2025
-## Spring Series: Yubisaki to Renren, 
+## Spring Series: Yubisaki to Renren, ID:Invaded
 
 **Friday, 7 February 2025**
 - Fruits Basket (2019) 1
