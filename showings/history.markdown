@@ -40,7 +40,7 @@ how long it's been since we last showed something.
 - Death Parade 1-2
 
 **Friday, 10 October 2025**
-= Shiki 1-2
+- Shiki 1-2
 - Hellsing Ultimate 1-3
 
 **Friday, 17 October 2025**
@@ -70,8 +70,7 @@ how long it's been since we last showed something.
 - The Demon Girl Next Door ep 1-3
 - Moriarty the Patriot ep 4-6
 
-**Friday, 28 November 2025**
-- Thanksgiving 
+**Friday, 28 November 2025** &nbsp; <font color="red">Thanksgiving</font>**
 
 **Friday, 5 December 2025**
 - Flip Flappers ep 1-3
