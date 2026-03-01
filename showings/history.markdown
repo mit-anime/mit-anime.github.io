@@ -11,6 +11,79 @@ how long it's been since we last showed something.
 
 
 -----
+## Fall 2025
+#### Ongoings: Nichijou, Moriarty the Patriot, Hellsing: Ultimate
+
+**Friday, 5 September 2025**
+- Nichijou 1
+- Barakamon 1 
+- A Place Further Than The Universe 1
+- Akebi's Sailor Uniform 1
+- Aria the Animation 1-3
+
+**Friday, 12 September 2025**
+- K-On! 1-3
+- Nichijou 1-3 
+
+**Friday, 19 September 2025**
+- Student Holiday 
+
+**Friday, 26 September 2025**
+- Tatami Galaxy 1-3
+- Nichijou 4-6 
+
+**Friday, 3 October 2025**
+- Parasyte 1 
+- Another 1 
+- Hellsing Ultimate 1 
+- Angel of Death 1
+- Death Parade 1-2
+
+**Friday, 10 October 2025**
+= Shiki 1-2
+- Hellsing Ultimate 1-3
+
+**Friday, 17 October 2025**
+- Hell Girl 1-2
+- Hellsing Ultimate 4-6
+
+**Friday, 24 October 2025**
+- Girl’s Last Tour 1-2
+- Hellsing Ultimate 7-8
+
+**Friday, 31 October 2025**
+- Visual novel (Danganronpa)
+- Hellsing Ultimate 9-10
+
+**Friday, 7 November 2025**
+- Rose of Versaille 1
+- Heike Monogatari 1
+- Moriarty the Patriot 1
+- Drifters 1
+- Symphogear ep 1-3
+
+**Friday, 14 November 2025**
+- Fate/kaleid liner Prisma Illya ep 1-3
+- Moriarty the Patriot ep 1-3
+
+**Friday, 21 November 2025**
+- The Demon Girl Next Door ep 1-3
+- Moriarty the Patriot ep 4-6
+
+**Friday, 28 November 2025**
+- Thanksgiving 
+
+**Friday, 5 December 2025**
+- Flip Flappers ep 1-3
+- Moriarty the Patriot ep 7-9
+
+**Friday, 12 December 2025 (Brain Freeze)**
+- AMQ
+- Snapcube Realtime Fandubs
+
+
+
+-----
 ## Spring 2025
 #### Spring Series: Yubisaki to Renren, ID:Invaded
 
