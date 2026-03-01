@@ -3,7 +3,7 @@ layout: page
 title: History
 ---
 ## Past Showings
-### Fall 1990 - Summer 2024
+### Fall 1990 - Fall 2025
 This file is in reverse-chronological order (by semester or season),
 which allows us to easily use a browser's "find'' command to figure out
 how long it's been since we last showed something.
