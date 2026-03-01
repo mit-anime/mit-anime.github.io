@@ -40,7 +40,7 @@ how long it's been since we last showed something.
 - Promised Neverland 1 
 - Yubisaki to Renren 10-12
 
-**Friday, 14 March 2025**  &nbsp; <font color="red">White Day</font>**
+**Friday, 14 March 2025  &nbsp; <font color="red">White Day</font>**
 - Dating sim (hatoful boyfriend)
 - Durarara! 1-3 
 
